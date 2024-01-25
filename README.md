@@ -1,1 +1,1 @@
-# The Legislative Assembly of British Columbia
+# Legislative Assembly of British Columbia
