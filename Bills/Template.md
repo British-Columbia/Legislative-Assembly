@@ -17,17 +17,17 @@ Legislative Assembly of British Columbia
 
 <div align="right">
 
-**HONOURABLE SOMETHING SOMETHING**<br/>
-**SOMETHING ELSE**
+**HONOURABLE CHIEF SPONSOR MLA**<br/>
+**HONOURABLE CO-SPONSOR MLA**
 
 </div>
 
 <hr/>
 
 <details>
-<summary>Explanatory Note</summary>
+<summary>Explanatory Note</summary><blockquote>
 This bill continues whatever.
-</details>
+<br/></blockquote></details>
 
 HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of the Province of British Columbia, enacts as follows:
 
@@ -61,16 +61,16 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
    1. Isn't it?
 
 <details>
-<summary>Explanatory Note</summary>
+<summary>Explanatory Note</summary><blockquote>
 Talks about the section.
-</details>
+</blockquote></details>
 
 #### Purpose of the Act
 
 2. Yes so this is whatever.
 
 <div align="center">
-<h3>Part 2 — Something something</h2>
+<h2>Part 2 — Something something</h2>
 <h4>Division 1 — If you really need it</h4>
 </div>
 
@@ -85,7 +85,7 @@ Talks about the section.
 <hr/>
 <div align="center">
 
-<h3>SCHEDULE 1</h2>
+<h3>SCHEDULE 1</h3>
 <h4>Something something blah blah</h4>
 
 | Table | Yea            |
@@ -97,7 +97,7 @@ Talks about the section.
 <hr/>
 <div align="center">
 
-<h3>SCHEDULE 2</h2>
+<h3>SCHEDULE 2</h3>
 <h4>Something something blah blah</h4>
 
 </div>
