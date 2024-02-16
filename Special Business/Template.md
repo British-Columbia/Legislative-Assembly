@@ -9,7 +9,7 @@ Legislative Assembly of British Columbia
 <hr/>
 
 <h1>BILL 1</h1>
-<h1>A RESOLUTION TO BRITISH COLUMBIA</h1>
+<h1>A SPECIAL RESOLUTION TO BRITISH COLUMBIA</h1>
 
 **As of January 1, 2024**
 
@@ -37,7 +37,7 @@ THE LEGISLATIVE ASSEMBLY OF BRITISH COLUMBIA, by and with the advice and consent
 
 #### Definitions and interpretation
 
-1. (1) In this Resolution:
+1. (1) In this Special Resolution:
 
    Insert thing
 
