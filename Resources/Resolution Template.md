@@ -8,7 +8,7 @@ Legislative Assembly of British Columbia
 
 <hr/>
 
-<h1>BILL 1</h1>
+<h1>RESOLUTION 1</h1>
 <h1>A RESOLUTION TO BRITISH COLUMBIA</h1>
 
 **As of January 1, 2024**
