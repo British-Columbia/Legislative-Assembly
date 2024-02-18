@@ -2,7 +2,7 @@
 
 First Session, Fourth-fourth Parliament,
 
-1 Chars. 3, 2024
+1 Chas. 3, 2024
 
 Legislative Assembly of British Columbia
 
