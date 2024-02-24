@@ -51,7 +51,7 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
 
     "public land" means land owned by the government of *British Columbia* or *Canada*;
 
-    "private land" means land owned by either an individual or entity, which is not affiliated with the government of *British Columbia* or *Canada*.
+"private land" means land owned by either an individual or entity, which is not affiliated with the government of *British Columbia* or *Canada*.
 
 <div align="center">
 <h2>Part 2 — Protective Operations</h2>
@@ -63,11 +63,11 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
 
 4. Agents may require peace officers not representing the *Protective Operations Unit* to cease being near or attempting to assist a detail, either directly or indirectly.
 
-   &nbsp;&nbsp;&nbsp;(a) This section shall not apply if the detail:
+ &nbsp;&nbsp;&nbsp;(a) This section shall not apply if the detail:
+
+   &nbsp;&nbsp;&nbsp;(b) is within the fence-line of the *Correctional Service Canada* property and an agent wishes to require a            *Correctional  &nbsp;&nbsp;&nbsp;Service Canada* affiliated peace officer to cease assisting the detail or being near said detail, or;
         
-   &nbsp;&nbsp;&nbsp;(b) is within the fence-line of the *Correctional Service Canada* property and an agent wishes to require a            *Correctional    &nbsp;&nbsp;&nbsp;Service Canada* affiliated peace officer to cease assisting the detail or being near said detail, or;
-        
-   &nbsp;&nbsp;&nbsp;(c) the detail is within either the fence-line, buoys, or building of a *Canadian Armed Forces* or *Department of Defence*    &nbsp;&nbsp;&nbsp;property, and an agent wishes to require a *Canadian Armed Forces* affiliated peace officer to cease assisting the detail    &nbsp;&nbsp;&nbsp;or being near said detail.
+   &nbsp;&nbsp;&nbsp;(c) the detail is within either the fence-line, buoys, or building of a *Canadian Armed Forces* or *Department of Defence*  &nbsp;&nbsp;&nbsp;property, and an agent wishes to require a *Canadian Armed Forces* affiliated peace officer to cease assisting the detail  &nbsp;&nbsp;&nbsp;or being near said detail.
 
 #### Venue Lockdowns
 
