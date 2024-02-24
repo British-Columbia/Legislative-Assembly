@@ -63,11 +63,11 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
 
 4. Agents may require peace officers not representing the *Protective Operations Unit* to cease being near or attempting to assist a detail, either directly or indirectly.
 
- &nbsp;&nbsp;&nbsp;(a) This section shall not apply if the detail:
+    (a) This section shall not apply if the detail–
 
-     &nbsp;&nbsp;&nbsp;(i) is within the fence-line of the *Correctional Service Canada* property and an agent wishes to require a *Correctional Service Canada* affiliated peace officer to cease assisting the detail or being near said detail, or;
+    &nbsp;&nbsp;&nbsp;(i) is within the fence-line of the *Correctional Service Canada* property and an agent wishes to require a *Correctional Service Canada* affiliated peace officer to cease assisting the detail or being near said detail, or;
         
-     &nbsp;&nbsp;&nbsp;(i) the detail is within either the fence-line, buoys, or building of a *Canadian Armed Forces* or *Department of Defence* property, and an agent wishes to require a *Canadian Armed Forces* affiliated peace officer to cease assisting the detail or being near said detail.
+    &nbsp;&nbsp;&nbsp;(i) the detail is within either the fence-line, buoys, or building of a *Canadian Armed Forces* or *Department of Defence* property, and an agent wishes to require a *Canadian Armed Forces* affiliated peace officer to cease assisting the detail or being near said detail.
 
 #### Venue Lockdowns
 
