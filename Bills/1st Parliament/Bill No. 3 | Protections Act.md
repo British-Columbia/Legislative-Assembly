@@ -65,9 +65,9 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
 
  &nbsp;&nbsp;&nbsp;(a) This section shall not apply if the detail:
 
-   &nbsp;&nbsp;&nbsp;(b) is within the fence-line of the *Correctional Service Canada* property and an agent wishes to require a            *Correctional  &nbsp;&nbsp;&nbsp;Service Canada* affiliated peace officer to cease assisting the detail or being near said detail, or;
+   &nbsp;&nbsp;&nbsp;(b) is within the fence-line of the *Correctional Service Canada* property and an agent wishes to require a            *Correctional &nbsp;&nbsp;&nbsp;Service Canada* affiliated peace officer to cease assisting the detail or being near said detail, or;
         
-   &nbsp;&nbsp;&nbsp;(c) the detail is within either the fence-line, buoys, or building of a *Canadian Armed Forces* or *Department of Defence*  &nbsp;&nbsp;&nbsp;property, and an agent wishes to require a *Canadian Armed Forces* affiliated peace officer to cease assisting the detail  &nbsp;&nbsp;&nbsp;or being near said detail.
+   &nbsp;&nbsp;&nbsp;(c) the detail is within either the fence-line, buoys, or building of a *Canadian Armed Forces* or *Department of Defence* &nbsp;&nbsp;&nbsp;property, and an agent wishes to require a *Canadian Armed Forces* affiliated peace officer to cease assisting the detail &nbsp;&nbsp;&nbsp;or being near said detail.
 
 #### Venue Lockdowns
 
