@@ -121,26 +121,7 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
 
 #### Repealment
 
-22. C.B. 31 shall be repealed and therefore nullified.
-
-
-<div align="center">
-<h2>Part 6 — Special Provisions</h2>
-</div>
-
-#### Resource Continuation
-
-23. All documents, Trello boards and workspaces, Google forms, and other such resources produced under the authority of the *Vancouver Department of Business Affairs*, as established by C.B. 31, shall be treated as if produced under the authority of the *Department of Business Affairs*.
-
-#### Document Preservation
-
-24. All documents, Trello boards and workspaces, Google forms, and other such resources produced under the authority of the *Vancouver Department of Business Affairs*, as established by C.B. 31, shall not be updated, edited, or otherwise tampered with, except in the case of deletion of the entire resource.
-
-<details>
-<summary>Explanatory Notes</summary><blockquote>
-This section is made in order to ensure that old Vancouver DOBA branded documents are not used in the future, but rather new DOBA branded documents are used.
-
-</blockquote></details>
+22. C.B. 31 shall be repealed.
 
 <hr/>
 <div align="center">
