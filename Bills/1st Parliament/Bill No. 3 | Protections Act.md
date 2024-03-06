@@ -51,7 +51,7 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
 
     "public land" means land owned by the government of *British Columbia* or *Canada*;
 
-"private land" means land owned by either an individual or entity, which is not affiliated with the government of *British Columbia* or *Canada*.
+    "private land" means land owned by either an individual or entity, which is not affiliated with the government of *British Columbia* or *Canada*.
 
 <div align="center">
 <h2>Part 2 — Protective Operations</h2>
