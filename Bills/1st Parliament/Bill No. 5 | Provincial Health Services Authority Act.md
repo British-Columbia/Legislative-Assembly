@@ -50,7 +50,7 @@ medical or healing act, or otherwise any service related to the alleviation and 
 
 #### Department Mandate
 
-3. There shall continue to be a health authority, styled the Provincial Health Services Authority.
+3. There shall continue to be a health authority for British Columbia, known as the Provincial Health Services Authority.
 
 4. The Provincial Health Services Authority shall be the sole entity tasked with the management of medical licenses, medical businesses, operations and procedures of government property that exists for the primary purpose of medical service, and the creation of medical services curricula.
 
@@ -91,13 +91,13 @@ medical or healing act, or otherwise any service related to the alleviation and 
 
     &nbsp;&nbsp;&nbsp;(d) the Chief Ambulance Officer of the *British Columbia Ambulance Service*;
     
-    &nbsp;&nbsp;&nbsp;(e) three other individuals styled Civilian Directors, accepted by more than one-half of the Provincial Health Services Authority Board of Directors.
+    &nbsp;&nbsp;&nbsp;(e) three other individuals styled Non-Executive Directors, accepted by more than one-half of the Provincial Health Services Authority Board of Directors.
 
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i) Civilian Directors may be removed from the Provincial Health Services Board of Directors if more than one-half of the Provincial Health Services Authority Board of Directors vote in favor of such removal.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(i) Non-Executive Directors may be removed from the Provincial Health Services Board of Directors if more than one-half of the Provincial Health Services Authority Board of Directors vote in favor of such removal.
 
 #### Board Operations
 
-11. Individuals within the Provincial Health Services Authority Board of Directors shall only possess one vote, and may not occupy multiple positions within the Provincial Health Services Authority Board of Directors.
+11. Individuals within the Provincial Health Services Authority Board of Directors shall only possess one vote, and may not occupy multiple seats within the Provincial Health Services Authority Board of Directors.
 
 12. All matters brought before the Provincial Health Services Authority Board of Directors shall not be passed unless more than one-half of its members vote in favor of the matter.
 
@@ -147,7 +147,7 @@ medical or healing act, or otherwise any service related to the alleviation and 
 
 #### Medical Services Curricula
 
-25. The Provincial Health Services Authority shall create curriculum for each medical license it creates, and ensure such curricula are taught to individuals seeking a medical license.
+25. The Provincial Health Services Authority shall create a curriculum for each medical license it creates, and ensure such curricula are taught to individuals seeking a medical license.
 
 
 <div align="center">
