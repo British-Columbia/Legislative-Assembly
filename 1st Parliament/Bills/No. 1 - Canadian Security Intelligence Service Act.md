@@ -17,7 +17,7 @@ Legislative Assembly of British Columbia
 
 <div align="right">
 
-**HONOURABLE SHIBE_R6 VC OBC MMV MB MSM CD MLA MLA**<br/>
+**HONOURABLE SHIBE_R6 VC OBC MMV MB MSM CD MLA**<br/>
 **HONOURABLE FOXYTHEWEREFOX OBC MB MSM CD MLA**
 
 </div>
