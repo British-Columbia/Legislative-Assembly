@@ -31,19 +31,11 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
 
 #### Part 3 Amendments
 
-1. Part 3 is amended— 
-
-    &nbsp;&nbsp;&nbsp;(a) by striking out "Board of Directors" and substituting "Medical Board".
-
-2. Part 3 Section 8 is amended— 
+1. Part 3 Section 8 is amended— 
 
     &nbsp;&nbsp;&nbsp;(a) by adding "and other duties prescribed by the President." after "medical providers".
 
-3. Part 3 Section 10 is amended— 
-
-    &nbsp;&nbsp;&nbsp;(a) in subsection (e) by striking out "three other individuals" and substituting "one individual for each individual that is head of an Education of Medical Certification".
-
-4. Part 3 Section 10 is amended— 
+2. Part 3 Section 10 is amended— 
 
     &nbsp;&nbsp;&nbsp;(a) in subsection (e) (i) by striking out "Non-Executive Directors" and substituting "Non-Executive Members".
 
