@@ -39,9 +39,7 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
     
     "vehicle" means any conveyance which operates on the road;
 
-    "tow" means the act of moving a vehicle either against the vehicle owner's wishes or knowledge, or with the vehicle owner's consent;
-
-    "peace officer" means a member of any police service or the *1st Military Police Regiment* of the *3rd Canadian Division*.
+    "tow" means the act of moving a vehicle either against the vehicle owner's wishes or knowledge, or with the vehicle owner's consent.
 
 <div align="center">
 <h2>Part 2 — Establishment</h2>
@@ -87,7 +85,7 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
 
     #### Towing of Military Vehicles
 
-10. All vehicles which are operated by the *Canadian Armed Forces* or *Department of Defence* may not be towed by employees of the Automobile Association unless the owner of the vehicle is not physically within the game, and the vehicle is not lawfully stopped, parked, or standing.
+10. All vehicles which are operated by the *Canadian Armed Forces* or *Department of National Defence* may not be towed by employees of the Automobile Association unless the owner of the vehicle is not physically within the game, and the vehicle is not lawfully stopped, parked, or standing.
 
 #### Towing of Vehicle for Maintenance
 
