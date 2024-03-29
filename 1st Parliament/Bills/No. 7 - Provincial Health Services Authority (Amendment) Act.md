@@ -39,5 +39,17 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
 
     &nbsp;&nbsp;&nbsp;(a) in subsection (e) (i) by striking out "Non-Executive Directors" and substituting "Non-Executive Members".
 
+#### Part 4 Amendments
+
+3. Part 4 Section 15 is amended by adding the following subsection—
+
+    &nbsp;&nbsp;&nbsp;(a) in the course of an investigation. the Provincial Health Services Authority may mandate the providance of all information to it, documents or otherwise, that directly pertains to the investigation.
+
+#### Part 5 Amendments
+
+4. Part 5 Section 23 is amended by adding the following subsection—
+
+    &nbsp;&nbsp;&nbsp;(a) in the course of an investigation. the Provincial Health Services Authority may mandate the providance of all information to it, documents or otherwise, that directly pertains to the investigation.
+
 <hr/>
 <div align="center">
