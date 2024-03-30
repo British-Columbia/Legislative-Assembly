@@ -31,7 +31,7 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
 
 #### Part 1 Amendment
 
-2. Part 1 Section 2 is amended— 
+2. Part 1 Section 2  of the Department of Business Affairs Act, RSBC 2024, C. 5, is amended— 
 
     &nbsp;&nbsp;&nbsp;(a) by striking out "unrelated to the fields of law or medicine".
 
