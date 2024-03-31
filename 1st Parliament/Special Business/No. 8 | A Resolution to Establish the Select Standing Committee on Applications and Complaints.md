@@ -57,7 +57,7 @@ THE LEGISLATIVE ASSEMBLY OF BRITISH COLUMBIA, by and with the advice and consent
 <h2>Part 3 — Special Provisions</h2>
 </div>
 
-#### Legislative Committees Act Nullification
+#### Legislative Committees Act
 
 5. All regulations found within the Legislative Committees Act that pertain to the staffing of committee shall not be enforced for the Select Standing Committee on Applications and Complaints.
 
