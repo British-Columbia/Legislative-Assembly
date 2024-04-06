@@ -54,7 +54,7 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
 
 2. In this Act, unless the context otherwise requires—
    
-    "law enforcement agency" means the following entities; the Royal Canadian Mounted Police, the British Columbia Sheriff Service, the Vancouver Police Department, Parks Canada, and Correctional Service Canada;
+    "law enforcement agency" means the following entities; the Royal Canadian Mounted Police, the British Columbia Sheriff Service, the Vancouver Police Department, and Correctional Service Canada;
    
     "peace officer" means any person employed for the preservation and maintenance of the public peace or for the service or execution of civil process as authorized by law;
 
