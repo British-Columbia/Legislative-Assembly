@@ -172,7 +172,7 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
 12. All Barristers that operate within British Columbia must be required to possess a law license issued by the Law Society of British Columbia.
 
 
-    &nbsp;&nbsp;&nbsp;(a) The Law Society of Briitish Columbia may not decline to issue a law license on the basis of a criminal record unless such a criminal record contains crime committed in a judicial setting.
+    &nbsp;&nbsp;&nbsp;(a) The Law Society of British Columbia may not decline to issue a law license on the basis of a criminal record unless such a criminal record contains crime committed in a judicial setting.
 
 
 
