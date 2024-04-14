@@ -339,13 +339,13 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
 
 
 <div align="center">
-<h2>Part 7 — Repealment of Conflicting Legislation</h2>
+<h2>Part 7 — Repeal of Conflicting Legislation</h2>
 </div>
 
 
 
 
-#### Repealment
+#### Repeal
 
 
 
