@@ -8,4 +8,4 @@ In the chair: Honourable S3aWo1fz, Speaker
 
 - [Orders of the Day (Order Paper)](https://github.com/British-Columbia/Legislative-Assembly/blob/b223b24e051be5cd595c38a2556caca6cc5fb96b/1st%20Parliament/Sittings/No.%204/Orders%20of%20the%20Day.pdf)
 - [Votes and Proceedings](https://github.com/British-Columbia/Legislative-Assembly/blob/92bbc6c9c638ac7f1fa34ddde2b248e3b14609ff/1st%20Parliament/Sittings/No.%204/Votes%20and%20Proceedings.pdf)
-- [Official Report of Debates (Hansard)]([./Official%20Report%20of%20Debates.pdf](https://github.com/British-Columbia/Legislative-Assembly/blob/92bbc6c9c638ac7f1fa34ddde2b248e3b14609ff/1st%20Parliament/Sittings/No.%204/Official%20Report%20of%20Debates.pdf))
+- [Official Report of Debates (Hansard)](https://github.com/British-Columbia/Legislative-Assembly/blob/a816aa0877f985e253661776408f3c124fb980ce/1st%20Parliament/Sittings/No.%204/Official%20Report%20of%20Debates.pdf)
