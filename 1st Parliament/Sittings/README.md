@@ -1,9 +1,11 @@
-# Sittings of the 1st Parliament
+# Sitting No. 4
 
-## First Session
+_Second Session, 1st Parliament_
 
-| No. | Date                         |
-| --- | ---------------------------- |
-| 1   | [Sun 18 Feb '24](./No.%201/) |
-| 2   | [Sat 24 Feb '24](./No.%202/) |
-| 3   | [Sat 9 Mar '24](./No.%203/)  |
+**Saturday, March 23, 2024**
+
+In the chair: Honourable S3aWo1fz, Speaker
+
+- [Orders of the Day (Order Paper)](1st Parliament/Sittings/No. 4/Orders of the Day.pdf)
+- [Votes and Proceedings](./Votes%20and%20Proceedings.pdf)
+- [Official Report of Debates (Hansard)](./Official%20Report%20of%20Debates.pdf)
