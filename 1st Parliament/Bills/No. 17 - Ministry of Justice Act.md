@@ -8,7 +8,7 @@ Legislative Assembly of British Columbia
 
 <hr/>
 
-<h1>BILL XX</h1>
+<h1>BILL 17</h1>
 <h1>MINISTRY OF JUSTICE ACT</h1>
 
 **As of May 18, 2024**
@@ -53,7 +53,7 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
 
 5. The Ministry of Justice shall be overseen by the Attorney General, nominated by the Premier.
 
-    &nbsp;&nbsp;&nbsp;(a) The Attorney General shall always be a Barrister.
+    &nbsp;&nbsp;&nbsp;(a) The Attorney General must always be a Barrister.
 
 #### Ministry Staffing
 
@@ -67,7 +67,7 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
 
 #### Prosecutions
 
-8. When prosecuting individuals, the Ministry of Justice shall ensure the Barrister they appoint to represent the Ministry of Justice in the prosecution has no conflict of interest with the aforementioned individual(s).
+8. When prosecuting individuals, the Ministry of Justice shall ensure the Barrister they appoint to represent the Ministry of Justice in conducting a prosecution has no conflict of interest with the accused.
 
 #### Representation of the government
 
