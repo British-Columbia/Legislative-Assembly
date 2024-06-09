@@ -1,8 +1,8 @@
 # Legislative Assembly of British Columbia
 
-The **6th Council of the City of Vancouver** dissolved on February 7, 2024.
+The [**1st Parliament of British Columbia**](./1st%20Parliament/) opened on February 11, 2024 and dissolved on June 4, 2024.
 
-The [**1st Parliament of British Columbia**](./1st%20Parliament/) opened on February 11, 2024.
+The [**2nd Parliament of British Columbia**](./2nd%20Parliament/) opened on June 9, 2024 and will dissolve on October 2, 2024.
 
 ## Obtaining point-in-time links
 
