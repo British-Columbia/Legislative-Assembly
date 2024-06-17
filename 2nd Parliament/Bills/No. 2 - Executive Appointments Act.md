@@ -107,7 +107,6 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
 | Principal Secretary to the Premier                          |   Political   |              No              |
 | Chief Ambulance Officer, British Columbia Ambulance Service | Non-political |             Yes              |
 | Chief Constable, Victoria Police Department                 | Non-political |             Yes              |
-| Chief Executive Officer, BC Transit                         | Non-political |             Yes              |
 | Chief Sheriff, British Columbia Sheriff Service             | Non-political |             Yes              |
 | Commander, 3rd Canadian Division                            | Non-political |             Yes              |
 | Commissioner, Royal Canadian Mounted Police                 | Non-political |             Yes              |
@@ -115,11 +114,14 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
 | Director, British Columbia Automobile Association           | Non-political |             Yes              |
 | Director, Canadian Security Intelligence Service            | Non-political |             Yes              |
 | Fire Chief, Victoria Fire Department                        | Non-political |             Yes              |
+| Warden, Correctional Service Canada                         | Non-political |             Yes              |
 | Minister of Foreign Affairs                                 |   Political   |             Yes              |
 | Deputy Minister of Foreign Affairs                          | Non-political |              No              |
 | Minister of Trade                                           |   Political   |             Yes              |
 | Deputy Minister of Trade                                    | Non-political |              No              |
-| President, Vancouver Island Health Authority                | Non-political |             Yes              |
-| Warden, Correctional Service Canada                         | Non-political |             Yes              |
+| Minister of Health                | Political |             Yes              |
+| Deputy Minister of Health                | Non-political |             No              |
+| Minister of Transportation and Infrastructure                | Political |             Yes              |
+| Deputy Minister of Transportation and Infrastructure                | Non-political |             No              |
 
 </div>
