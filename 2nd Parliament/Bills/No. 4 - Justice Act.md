@@ -56,10 +56,6 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
    
     "Barrister" has the same meaning as in RSBC 2024, c. 14;
 
-
-    "resource" means any document, spreadsheet, Discord channel, or other such item.
-
-
 <div align="center">
 <h2>Part 2 — Establishment</h2>
 </div>
