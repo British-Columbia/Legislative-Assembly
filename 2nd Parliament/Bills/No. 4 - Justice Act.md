@@ -67,7 +67,7 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
 3. There shall continue to be a Ministry of Justice.
 
 
-4. (1) The Ministry of Justice shall be tasked with prosecuting individuals who have allegedly committed crimes, and investigating the government in cases of criminal misconduct.
+4. (1) The Ministry of Justice shall be tasked with prosecuting entities who have allegedly committed crimes, and investigating the government in cases of criminal misconduct.
 
 
     (2) The Ministry of Justice shall also be tasked with representing the government of British Columbia, its subordinate entities, and its subordinate individuals— if said individuals were representing the government— in legal proceedings.
