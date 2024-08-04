@@ -97,7 +97,7 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
 
 #### Previous contracts
 
-10. All contracts previously made before this Act under C.B. 58 are in effect, regardless of whether or not they satisfy all requirements of this Act.
+10. All contracts previously signed before this Act under C.B. 58 are in effect, regardless of whether or not they satisfy all requirements of this Act.
 
 <hr/>
 <div align="center">
