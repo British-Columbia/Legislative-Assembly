@@ -2,7 +2,9 @@
 
 The [**1st Parliament of British Columbia**](./1st%20Parliament/) opened on February 11, 2024 and dissolved on June 4, 2024.
 
-The [**2nd Parliament of British Columbia**](./2nd%20Parliament/) opened on June 9, 2024 and will dissolve on October 2, 2024.
+The [**2nd Parliament of British Columbia**](./2nd%20Parliament/) opened on June 9, 2024 and dissolved on September 2, 2024.
+
+The [**3rd Parliament of British Columbia**](./3rd%20Parliament/) will open shortly and is expected to dissolve four months thereafter.
 
 ## Obtaining point-in-time links
 
