@@ -10,7 +10,7 @@
 <hr />
 
 First Session, Third Parliament,  
-2 Charles III, 2024  
+3 Charles III, 2024  
 Legislative Assembly of British Columbia  
 
 <hr />
