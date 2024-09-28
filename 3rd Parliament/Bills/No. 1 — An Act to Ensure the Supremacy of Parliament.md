@@ -1,0 +1,48 @@
+<div align="right">
+
+**Government Bill**
+
+</div>
+
+<div align="center">
+
+<hr />
+<hr />
+
+First Session, Third Parliament,  
+2 Charles III, 2024  
+Legislative Assembly of British Columbia  
+
+<hr />
+<hr />
+
+<br />
+
+<h1>BILL 1</h1>
+<h1>AN ACT TO ENSURE THE SUPREMACY OF PARLIAMENT</h1>
+
+<br />
+
+<hr />
+<hr />
+
+Honourable hxamz_a  
+Government Whip
+
+<hr />
+<hr />
+
+</div>
+
+This *Act to Ensure the Supremacy of Parliament* is an important part of our democratic process. The purpose of this Bill, and its introduction prior to consideration of the Speech from the Throne, is to perpetuate the established right of Parliament, through its elected representatives, to sit and act without leave from the Crown.
+
+This Bill simply asserts the ancient right of the Legislative Assembly to give precedence to matters other than those expressed by the Sovereign.
+
+<div align="center">
+
+<hr width="20%" />
+
+King's Printer for British Columbia©  
+Victoria, 2024
+
+</div>
