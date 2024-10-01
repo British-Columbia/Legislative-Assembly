@@ -1,28 +1,37 @@
-<div align="center">
-
-First Session, Fourth-fourth Parliament,
-
-1 Chas. 3, 2024
-
-Legislative Assembly of British Columbia
-
-<hr/>
-
-<h1>BILL 1</h1>
-<h1>BRITISH COLUMBIA ACT</h1>
-
-**As of January 1, 2024**
-
-</div>
-
 <div align="right">
 
-**HONOURABLE CHIEF SPONSOR MLA**<br/>
-**HONOURABLE CO-SPONSOR MLA**
+**Government Bill**
 
 </div>
 
-<hr/>
+<div align="center">
+
+<hr />
+<hr />
+
+First Session, Third Parliament,  
+3 Charles III, 2024  
+Legislative Assembly of British Columbia  
+
+<hr />
+<hr />
+
+<br />
+
+<h1>BILL #</h1>
+<h1>NAME OF ACT</h1>
+
+<br />
+
+<hr />
+<hr />
+
+Author Username Without Suffix Medals
+
+<hr />
+<hr />
+
+</div>
 
 <details>
 <summary>Explanatory Note</summary><blockquote>
@@ -39,58 +48,58 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
 
 1. (1) In this Act:
 
-   Insert thing
+   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla blandit erat vitae sapien placerat, non molestie dolor porta. Donec gravida tincidunt ornare. Curabitur pellentesque risus tortor, non convallis ligula blandit sit amet. Aliquam dignissim, nunc vitae iaculis accumsan, ipsum augue euismod velit, ac placerat eros velit quis nunc. Vestibulum a vehicula felis. Donec varius et nibh eget tempus. Pellentesque condimentum nec quam eu pellentesque. Cras et nibh velit.
 
-   Blah blah blah
+   Vivamus imperdiet, dui quis consequat gravida, dui erat ultricies felis, in posuere metus quam fringilla risus. Nulla vitae tortor id velit dapibus fermentum. Etiam molestie vulputate sem a elementum. Aliquam congue, dui sed interdum sodales, nulla sapien interdum sem, ac mollis dui lectus quis sapien.
 
-   Yea you get the idea
+   Morbi eget ex tincidunt, blandit est vitae, facilisis libero. Pellentesque ultrices dolor eget condimentum placerat. Nunc nec felis ac lorem tempor laoreet. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque accumsan lectus in lectus dignissim, quis ultricies ex consequat.
 
    (2) And this is another sub-section.
 
    1. Something that's another sub-section
 
-   2. You get the idea right?
+   2. Here we type it in with numbers, but GitHub will render it with roman numerals.
 
-   3. blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah
+   3. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla blandit erat vitae sapien placerat, non molestie dolor porta. Donec gravida tincidunt ornare. Curabitur pellentesque risus tortor, non convallis ligula blandit sit amet. Aliquam dignissim, nunc vitae iaculis accumsan, ipsum augue euismod velit, ac placerat eros velit quis nunc. Vestibulum a vehicula felis. Donec varius et nibh eget tempus. Pellentesque condimentum nec quam eu pellentesque. Cras et nibh velit.
 
-   4. yea so here we type it in with numbers but GitHub will render it with roman numerals
-      1. anyway at this level and lower it starts using letters
+   4. Quisque sed sollicitudin lacus. Vivamus augue velit, tincidunt sed massa vitae, ultrices facilisis mi. In sollicitudin placerat arcu eu euismod. Cras in sodales tortor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi ornare neque ex, eu ornare dui posuere et. Proin eget tincidunt mi, ac egestas libero. Ut interdum pulvinar nunc, dignissim auctor ipsum luctus et.
+      1. At this indentation level and further, GitHub starts using letters
 
-   (3) Now this is pretty interesting
+   (3) Sed sed purus vitae nunc aliquam pharetra. Vivamus consectetur metus imperdiet ex tristique euismod. Suspendisse iaculis scelerisque mauris a auctor. Quisque eu dui neque. Praesent molestie vel massa eget ornare. Proin quis interdum elit. Proin ut diam quis enim efficitur sodales. Aliquam faucibus ipsum eget massa congue luctus.
 
-   1. Isn't it?
+   1. Fusce quis leo tellus. Morbi eu nunc enim. Donec vestibulum sem sed est feugiat, sed imperdiet risus pretium. Curabitur consequat condimentum nulla sit amet ultricies. Aliquam venenatis dui nec ipsum scelerisque malesuada. Suspendisse viverra sem eu rutrum laoreet. Curabitur vulputate dolor eget pulvinar tincidunt. Maecenas et mauris vel quam lacinia eleifend.
 
 <details>
 <summary>Explanatory Note</summary><blockquote>
-Talks about the section.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla blandit erat vitae sapien placerat, non molestie dolor porta. Donec gravida tincidunt ornare. Curabitur pellentesque risus tortor, non convallis ligula blandit sit amet. Aliquam dignissim, nunc vitae iaculis accumsan, ipsum augue euismod velit, ac placerat eros velit quis nunc. Vestibulum a vehicula felis. Donec varius et nibh eget tempus. Pellentesque condimentum nec quam eu pellentesque. Cras et nibh velit.
 </blockquote></details>
 
 #### Purpose of the Act
 
-2. Yes so this is whatever.
+2. Nam sed tristique lectus. Suspendisse ut convallis dui. Maecenas vehicula orci enim, sit amet aliquet diam aliquet venenatis. Donec sit amet euismod neque, consequat condimentum mauris. Sed non magna ipsum.
 
 <div align="center">
-<h2>Part 2 — Something something</h2>
-<h4>Division 1 — If you really need it</h4>
+<h2>Part 2 — Lorem Ipsum</h2>
+<h4>Division 1 — Lorem Ipsum</h4>
 </div>
 
 **Definitions for this Division**
 
 3. In this Division:
 
-   blah blah blah
+   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla blandit erat vitae sapien placerat, non molestie dolor porta. Donec gravida tincidunt ornare. Curabitur pellentesque risus tortor, non convallis ligula blandit sit amet. Aliquam dignissim, nunc vitae iaculis accumsan, ipsum augue euismod velit, ac placerat eros velit quis nunc. Vestibulum a vehicula felis. Donec varius et nibh eget tempus. Pellentesque condimentum nec quam eu pellentesque. Cras et nibh velit.
 
-   yea ok you get the idea now
+   Vivamus imperdiet, dui quis consequat gravida, dui erat ultricies felis, in posuere metus quam fringilla risus. Nulla vitae tortor id velit dapibus fermentum. Etiam molestie vulputate sem a elementum. Aliquam congue, dui sed interdum sodales, nulla sapien interdum sem, ac mollis dui lectus quis sapien.
 
 <hr/>
 <div align="center">
 
 <h3>SCHEDULE 1</h3>
-<h4>Something something blah blah</h4>
+<h4>Lorem ipsum dolor sit amet</h4>
 
-| Table | Yea            |
-| ----- | -------------- |
-| Woo!  | I love tables! |
+| Header text | Header text    |
+| ----------- | -------------- |
+| Lorem ipsum | Lorem ipsum    |
 
 </div>
 
@@ -98,7 +107,16 @@ Talks about the section.
 <div align="center">
 
 <h3>SCHEDULE 2</h3>
-<h4>Something something blah blah</h4>
+<h4>Lorem ipsum dolor sit amet</h4>
+
+<div align="center">
+
+<hr width="20%" />
+
+King's Printer for British Columbia©  
+Victoria, YYYY
+
+</div>
 
 </div>
 
