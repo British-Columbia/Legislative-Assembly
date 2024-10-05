@@ -1,27 +1,38 @@
+<div align="right">
+
+**Government Bill**
+
+</div>
+
 <div align="center">
 
-First Session, Third Parliament,
+<hr />
+<hr />
 
-3 Chas. 3, 2024
+First Session, Third Parliament,  
+3 Charles III, 2024  
+Legislative Assembly of British Columbia  
 
-Legislative Assembly of British Columbia
+<hr />
+<hr />
 
-<hr/>
+<br />
 
 <h1>BILL 2</h1>
 <h1>ROYAL CANADIAN MOUNTED POLICE ACT</h1>
 
-**As of October 5, 2024**
+<br />
+
+<hr />
+<hr />
+
+Honourable Antonio_Gamer1567  
+Premier
+
+<hr />
+<hr />
 
 </div>
-
-<div align="right">
-
-**HONOURABLE ANTONIO_GAMER1567 OBC OOM MSC CD MLA**<br/>
-
-</div>
-
-<hr/>
 
 HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of the Province of British Columbia, enacts as follows:
 
@@ -113,5 +124,11 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
 
     &nbsp;&nbsp;&nbsp;(b) by appending Section 11 within Part 6, which shall read as 'The Royal Canadian Mounted Police, the Canadian Security Intelligence Service, and the Canadian Armed Forces shall all be exempted from complying with this Act.
 
-<hr/>
 <div align="center">
+
+<hr width="20%" />
+
+King's Printer for British Columbia©  
+Victoria, 2024
+
+</div>
