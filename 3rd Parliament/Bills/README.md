@@ -30,18 +30,18 @@
         <td></td>
         <td></td>
     </tr>
-    <!--<tr>
+    <tr>
         <td align="center">2</td>
-        <td>Title</td>
-        <td>Author</td>
-        <td>Mon. ##</td>
-        <td>Mon. ##</td>
-        <td>Mon. ##</td>
-        <td>Mon. ##</td>
-        <td>Mon. ##</td>
-        <td>Mon. ##</td>
-        <td>Mon. ##</td>
-    </tr>-->
+        <td>Royal Canadian Mounted Police Act</td>
+        <td>Antonio_Gamer1567</td>
+        <td>Oct. 17</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
 </table>
 
 ## MEMBERS' BILLS
