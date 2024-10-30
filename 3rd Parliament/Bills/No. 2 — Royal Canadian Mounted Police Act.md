@@ -1,3 +1,10 @@
+<div align="center">
+
+   Certified correct as passed First Reading on the 17th day of October, 2024  
+   rafaelmanman, Assistant Clerk
+   <hr>
+   
+</div>
 <div align="right">
 
 **Government Bill**
