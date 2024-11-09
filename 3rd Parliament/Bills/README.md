@@ -17,6 +17,7 @@
         <th>Amended</th>
         <th>Third Reading</th>
         <th>Royal Assent</th>
+        <th>R.S.B.C. Chap. No.</th>
     <tr>
     <tr>
         <td align="center">1</td>
@@ -29,12 +30,14 @@
         <td></td>
         <td></td>
         <td></td>
+        <td></td>
     </tr>
     <tr>
         <td align="center">2</td>
         <td>Royal Canadian Mounted Police Act</td>
         <td>Antonio_Gamer1567</td>
         <td>Oct. 17</td>
+        <td></td>
         <td></td>
         <td></td>
         <td></td>
@@ -59,11 +62,13 @@
         <th>Amended</th>
         <th>Third Reading</th>
         <th>Royal Assent</th>
+        <th>R.S.B.C. Chap. No.</th>
     <tr>
     <!--<tr>
         <td>M 201</td>
         <td>Title</td>
         <td>Author</td>
+        <td>Mon. ##</td>
         <td>Mon. ##</td>
         <td>Mon. ##</td>
         <td>Mon. ##</td>
@@ -89,11 +94,13 @@
         <th>Amended</th>
         <th>Third Reading</th>
         <th>Royal Assent</th>
+        <th>R.S.B.C. Chap. No.</th>
     <tr>
     <!--<tr>
         <td align="center">Pr 401</td>
         <td>Title</td>
         <td>Author</td>
+        <td>Mon. ##</td>
         <td>Mon. ##</td>
         <td>Mon. ##</td>
         <td>Mon. ##</td>
