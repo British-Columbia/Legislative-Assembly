@@ -18,8 +18,8 @@ Legislative Assembly of British Columbia
 
 <br />
 
-<h1>BILL 3</h1>
-<h1>PUBLIC SERVICE ACT</h1>
+<h1>BILL 5</h1>
+<h1>ROYAL CANADIAN MOUNTED POLICE ACT</h1>
 
 <br />
 
