@@ -38,7 +38,7 @@ Premier
 <details>
 <summary>Explanatory Note</summary>
 <blockquote>
-This Bill empowers the Provincial Court to mandate criminal rehabilitation or alternate sentencing in order to set aside a conviction(s) or when convicting an individual respectively. Such empowerment supports a more robust legal system for British Columbia.</blockquote>
+This Bill continues the BC Public Service, and lays out how ministers and their subordinates may be appointed and removed from their positions.</blockquote>
 </details>
 
 HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of the Province of British Columbia, enacts as follows:
