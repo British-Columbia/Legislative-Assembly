@@ -1,37 +1,51 @@
-<div align="center">
-
-X Session, Second Parliament,
-
-2 Chas. 3, 2024
-
-Legislative Assembly of British Columbia
-
-<hr/>
-
-<h1>BILL 8</h1>
-<h1>PUBLIC SERVICE ACT</h1>
-
-**As of August 7, 2024**
-
-</div>
-
 <div align="right">
 
-**HONOURABLE FOXYTHEWEREFOX OBC MB MSM CD MLA**
+**Government Bill**
 
 </div>
 
-<hr/>
+<div align="center">
+
+<hr />
+<hr />
+
+Second Session, Third Parliament  
+3 Charles III, 2025  
+Legislative Assembly of British Columbia  
+
+<hr />
+<hr />
+
+<br />
+
+<h1>BILL 3</h1>
+<h1>PUBLIC SERVICE ACT</h1>
+
+<br />
+
+<hr />
+<hr />
+
+Honourable Antonio_Gamer1567  
+Premier
+
+<hr />
+<hr />
+
+</div>
+</i></strong>
+
+<details>
+<summary>Explanatory Note</summary>
+<blockquote>
+This Bill empowers the Provincial Court to mandate criminal rehabilitation or alternate sentencing in order to set aside a conviction(s) or when convicting an individual respectively. Such empowerment supports a more robust legal system for British Columbia.</blockquote>
+</details>
 
 HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of the Province of British Columbia, enacts as follows:
 
-#### Short title
-
-1. This Act may be cited as the Public Service Act.
-
 #### Definitions and interpretation
 
-2. In this Act, unless the context otherwise requires—
+1. In this Act, unless the context otherwise requires—
 
    “deputy minister” means
 
@@ -55,7 +69,7 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
 
 #### Application of Act
 
-3. Except as otherwise provided in this Act or in another Act, this Act applies
+2. Except as otherwise provided in this Act or in another Act, this Act applies
 
    &nbsp;&nbsp;&nbsp;(a) to all ministries of the government, including the Office of the Premier, and
 
@@ -63,11 +77,11 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
 
 #### BC Public Service
 
-4. There shall continue to be a permanent, politically impartial workforce under the administration of the Executive Council.
+3. There shall continue to be a permanent, politically impartial workforce under the administration of the Executive Council.
 
 #### Head of the public service
 
-5. (1) The Clerk of the Executive Council shall continue to be the head of the public service.
+4. (1) The Clerk of the Executive Council shall continue to be the head of the public service.
 
    (2) The head of the public service is responsible for the management of the public service, including but not limited to the following:
 
@@ -83,25 +97,25 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
 
 #### Deputy ministers
 
-6. The Lieutenant Governor in Council may appoint deputy ministers, associate deputy ministers, and assistant deputy ministers.
+5. The Lieutenant Governor in Council may appoint deputy ministers, associate deputy ministers, and assistant deputy ministers.
 
-7. A deputy minister has the power to act on behalf of their corresponding minister subject to any conditions or limitations the minister may communicate, but this does not extend to any powers which are ascribed specifically to the Premier or Deputy Premier.
+6. A deputy minister has the power to act on behalf of their corresponding minister subject to any conditions or limitations the minister may communicate, but this does not extend to any powers which are ascribed specifically to the Premier or Deputy Premier.
 
-8. An associate deputy minister has all the powers of a deputy minister except to act on behalf of a minister.
+7. An associate deputy minister has all the powers of a deputy minister except to act on behalf of a minister.
 
-9. A member of the senior public service may be dismissed by the Lieutenant Governor in Council for reason plausible.
+8. A member of the senior public service may be dismissed by the Lieutenant Governor in Council for reason plausible.
 
 #### Other employees
 
-10. A person may be appointed to the public service in circumstances the head of the public service shall prescribe, but the head of the public service has no authority over appointments to the senior public service.
+9. A person may be appointed to the public service in circumstances the head of the public service shall prescribe, but the head of the public service has no authority over appointments to the senior public service.
 
-11. All appointments to the public service, whether by the head of the public service or by the Lieutenant Governor in Council, shall be made on the basis of merit exclusively.
+10. All appointments to the public service, whether by the head of the public service or by the Lieutenant Governor in Council, shall be made on the basis of merit exclusively.
 
-12. The appointment of an employee, except for the senior public service, may be rescinded under the authority of a minister or deputy minister in accordance with relevant employment legislation.
+11. The appointment of an employee, except for the senior public service, may be rescinded under the authority of a minister or deputy minister in accordance with relevant employment legislation.
 
 #### Amendment
 
-13. Schedule A of C.B. 133 is substituted in entirety with:
+12. Schedule A of C.B. 133 is substituted in entirety with:
 
 <table>
 <thead>
@@ -198,7 +212,7 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
 </tbody>
 </table>
 
-14. Schedule B of C.B. 133 is substituted in entirety with:
+13. Schedule B of C.B. 133 is substituted in entirety with:
 
 <table>
 <thead>
@@ -219,6 +233,15 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
 </tbody>
 </table>
 
-#### Force and extent
+#### Commencement
 
-15. This Act is to come into force and take effect on the date of its enactment.
+14. This Act comes into force on the date of Royal Assent.
+
+<div align="center">
+
+<hr width="20%" />
+
+King's Printer for British Columbia©  
+Victoria, 2025
+
+</div>
