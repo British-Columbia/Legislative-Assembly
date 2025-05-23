@@ -18,7 +18,7 @@ Legislative Assembly of British Columbia
 
 <br />
 
-<h1>BILL 2</h1>
+<h1>BILL 5</h1>
 <h1>ROYAL CANADIAN MOUNTED POLICE ACT</h1>
 
 <br />
