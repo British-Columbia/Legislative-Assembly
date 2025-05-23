@@ -135,7 +135,7 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
 
    &nbsp;&nbsp;&nbsp;(a) are on announced leave of absences, or
 
-   &nbsp;&nbsp;&nbsp;(c) the offices are vacant,
+   &nbsp;&nbsp;&nbsp;(b) the offices are vacant,
 
    the deputy commissioner has, for the time being, the control and management of the Force and all matters connected therewith, and may exercise all of the powers and privileges of the commissioner under this Act or any other Act.
 
