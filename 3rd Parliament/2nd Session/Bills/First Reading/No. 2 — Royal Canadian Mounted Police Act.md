@@ -86,7 +86,7 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
 
     **"deputy commissioner"** means the deputy commissioner of the Royal Canadian Mounted Police;
 
-    **"disciplinary action"** has the same meaning as in the Revised Employee Rights Bylaw;
+    **"disciplinary action"** has the same meaning as in the *Revised Employee Rights Bylaw*;
 
     **"Force"** means the Royal Canadian Mounted Police;
    
