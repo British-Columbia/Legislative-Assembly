@@ -18,7 +18,7 @@ Legislative Assembly of British Columbia
 
 <br />
 
-<h1>BILL 3</h1>
+<h1>BILL 5</h1>
 <h1>PUBLIC SERVICE ACT</h1>
 
 <br />
@@ -33,33 +33,48 @@ Premier
 <hr />
 
 </div>
-</i></strong>
+
+<div align="center">
+<strong>Contents</strong>
+</div>
+
+&nbsp;&nbsp;&nbsp;[1 Definitions](#definitions)  
+&nbsp;&nbsp;&nbsp;[2 Application of Act](#application-of-act)  
+&nbsp;&nbsp;&nbsp;[3 BC Public Service](#bc-public-service)  
+&nbsp;&nbsp;&nbsp;[4 Head of the public service](#head-of-the-public-service)  
+&nbsp;&nbsp;&nbsp;[5 Deputy ministers](#deputy-ministers)  
+&nbsp;&nbsp;&nbsp;[6 Associate deputy minister](#associate-deputy-minister)  
+&nbsp;&nbsp;&nbsp;[7 Dismissal of members of public service](#dismissal-of-members-of-public-service)  
+&nbsp;&nbsp;&nbsp;[8-10 Appointment of other employees](#appointment-of-other-employees)  
+&nbsp;&nbsp;&nbsp;[11-12 Consequential amendment](#consequential-amendment)  
+&nbsp;&nbsp;&nbsp;[13 Commencement](#commencement)
 
 <details>
-<summary>Explanatory Note</summary>
-<blockquote>
-This Bill continues the BC Public Service, and lays out how ministers and their subordinates may be appointed and removed from their positions.</blockquote>
-</details>
+<summary>Explanatory Note</summary><blockquote>
+This Bill lays out the explicit functions of the British Columbia Public Service, and how appointments of senior public service officials are to be conducted.
+<br/></blockquote></details>
 
 HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of the Province of British Columbia, enacts as follows:
 
-#### Definitions and interpretation
+#### Definitions
 
-1. In this Act, unless the context otherwise requires—
+1. In this Act:
 
-   “deputy minister” means
+   **"deputy minister"** means
 
    &nbsp;&nbsp;&nbsp;(a) a person appointed as a deputy minister under section 6, or
 
    &nbsp;&nbsp;&nbsp;(b) the head of the public service;
 
-   “minister” means a Member of Executive Council and includes the Premier;
+   **"employee"** means a person appointed under this Act or a person employed by an organisation this Act applies to;
 
-   “employee” means a person appointed under this Act or is employed by an organisation this Act applies to;
+   **"*Executive Appointments Act*"** means the *Executive Appointments Act*, RSBC 2024, c. 19;
 
-   “reason plausible” includes the reasons defined in section 8(2) of RSBC 2024, c. 19;
+   **"minister"** means a Member of Executive Council and includes the Premier;
 
-   “senior public service” consists of
+   **"reason plausible"** includes the reasons defined in section 8(2) of the *Executive Appointments Act*;
+
+   **"senior public service"** consists of
 
    &nbsp;&nbsp;&nbsp;(a) the deputy ministers,
 
@@ -83,7 +98,7 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
 
 4. (1) The Clerk of the Executive Council shall continue to be the head of the public service.
 
-   (2) The head of the public service is responsible for the management of the public service, including but not limited to the following:
+   (2) The head of the public service is responsible for the management of the public service, including without limitation the following:
 
    &nbsp;&nbsp;&nbsp;(a) advising the Premier respecting personnel policies, standards, regulations, and procedures;
 
@@ -97,26 +112,31 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
 
 #### Deputy ministers
 
-5. The Lieutenant Governor in Council may appoint deputy ministers, associate deputy ministers, and assistant deputy ministers.
+5. (1) The Lieutenant Governor in Council may appoint deputy ministers, associate deputy ministers, and assistant deputy ministers.
 
-6. A deputy minister has the power to act on behalf of their corresponding minister subject to any conditions or limitations the minister may communicate, but this does not extend to any powers which are ascribed specifically to the Premier or Deputy Premier.
+   (2) A deputy minister has the power to act on behalf of their corresponding minister subject to any conditions or limitations the minister may communicate, but this does not extend to any powers which are ascribed specifically to the Premier or Deputy Premier.
 
-7. An associate deputy minister has all the powers of a deputy minister except to act on behalf of a minister.
+#### Associate deputy minister
 
-8. A member of the senior public service may be dismissed by the Lieutenant Governor in Council for reason plausible.
+6. An associate deputy minister has all the powers of a deputy minister except to act on behalf of a minister.
 
-#### Other employees
+#### Dismissal of members of public service
 
-9. A person may be appointed to the public service in circumstances the head of the public service shall prescribe, but the head of the public service has no authority over appointments to the senior public service.
+7. A member of the senior public service may be dismissed by the Lieutenant Governor in Council for reason plausible.
 
-10. All appointments to the public service, whether by the head of the public service or by the Lieutenant Governor in Council, shall be made on the basis of merit exclusively.
+#### Appointment of other employees
 
-11. The appointment of an employee, except for the senior public service, may be rescinded under the authority of a minister or deputy minister in accordance with relevant employment legislation.
+8. A person may be appointed to the public service in circumstances the head of the public service shall prescribe, but the head of the public service has no authority over appointments to the senior public service.
 
-#### Amendment
+9. All appointments to the public service, whether by the head of the public service or by the Lieutenant Governor in Council, shall be made on the basis of merit exclusively.
 
-12. Schedule A of C.B. 133 is substituted in entirety with:
+10. The appointment of an employee, except for the senior public service, may be rescinded under the authority of a minister or deputy minister in accordance with relevant employment legislation.
 
+#### Consequential Amendment
+
+11. ***Schedule A of the Security of Information Act, C.B. 133, is repealed and the following substituted:***
+
+<blockquote>
 <table>
 <thead>
 <tr>
@@ -211,9 +231,11 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
  </tr>
 </tbody>
 </table>
+</blockquote>
 
-13. Schedule B of C.B. 133 is substituted in entirety with:
+12. ***Schedule B is repealed and the following substituted:***
 
+<blockquote>
 <table>
 <thead>
 <tr>
@@ -232,10 +254,11 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
 </tr>
 </tbody>
 </table>
+</blockquote>
 
 #### Commencement
 
-14. This Act comes into force on the date of Royal Assent.
+13. This Act comes into force on the date of Royal Assent.
 
 <div align="center">
 
