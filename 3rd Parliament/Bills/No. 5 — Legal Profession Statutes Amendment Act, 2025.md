@@ -18,7 +18,7 @@ Legislative Assembly of British Columbia
 
 <br />
 
-<h1>BILL 6</h1>
+<h1>BILL 5</h1>
 <h1>LEGAL PROFESSION STATUTES AMENDMENT ACT, 2025</h1>
 
 <br />
