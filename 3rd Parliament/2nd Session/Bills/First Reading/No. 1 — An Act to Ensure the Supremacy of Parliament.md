@@ -43,6 +43,6 @@ This Bill simply asserts the ancient right of the Legislative Assembly to give p
 <hr width="20%" />
 
 King's Printer for British Columbia©  
-Victoria, 2024
+Victoria, 2025
 
 </div>
