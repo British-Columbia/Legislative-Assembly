@@ -50,7 +50,7 @@
         <td>Public Service Act</td>
         <td>Hon. Dakota_303</td>
         <td><a href="./First%20Reading/No.%203%20—%20Public%20Service%20Act.md">May 24</a></td>
-        <td></td>
+        <td>May 24</td>
         <td></td>
         <td></td>
         <td></td>
@@ -63,7 +63,7 @@
         <td>Criminal Rehabilitation and Alternate Sentencing Act</td>
         <td>Hon. Dakota_303</td>
         <td><a href="./First%20Reading/No.%204%20—%20Criminal%20Rehabilitation%20and%20Alternate%20Sentencing%20Act.md">May 24</a></td>
-        <td></td>
+        <td>May 24</td>
         <td></td>
         <td></td>
         <td></td>
@@ -76,7 +76,7 @@
         <td>Legal Profession Statutes Amendment Act, 2025</td>
         <td>Hon. Dakota_303</td>
         <td><a href="./First%20Reading/No.%205%20—%20Legal%20Profession%20Statutes%20Amendment%20Act%2C%202025.md">May 24</a></td>
-        <td></td>
+        <td>May 24</td>
         <td></td>
         <td></td>
         <td></td>
@@ -89,7 +89,7 @@
         <td>Ministry of Trade Amendment Act, 2025</td>
         <td>Hon. Dakota_303</td>
         <td><a href="./First%20Reading/No.%206%20—%20Ministry%20of%20Trade%20Amendment%20Act%2C%202025.md">May 24</a></td>
-        <td></td>
+        <td>May 24</td>
         <td></td>
         <td></td>
         <td></td>
@@ -121,7 +121,7 @@
         <td>Environmental Protection (Vehicle Idling) Act</td>
         <td>Hon. tthelakes</td>
         <td><a href="./First%20Reading/No.%20M%20201%20—%20Environmental%20Protection%20(Vehicle%20Idling)%20Act.md">May 24</a></td>
-        <td></td>
+        <td>May 24</td>
         <td></td>
         <td></td>
         <td></td>
