@@ -26,8 +26,7 @@ Legislative Assembly of British Columbia
 <hr />
 <hr />
 
-Honourable Antonio_Gamer1567  
-Premier
+Honourable Dakota_303
 
 <hr />
 <hr />
