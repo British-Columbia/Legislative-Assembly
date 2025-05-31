@@ -12,7 +12,7 @@
         <th>Member</th>
         <th>First Reading</th>
         <th>Second Reading</th>
-        <th>Committee</th>
+        <th>Com-mittee</th>
         <th>Report</th>
         <th>Amended</th>
         <th>Third Reading</th>
@@ -51,23 +51,23 @@
         <td>Hon. Dakota_303</td>
         <td><a href="./First%20Reading/No.%203%20—%20Public%20Service%20Act.md">May 24</a></td>
         <td>May 24</td>
+        <td>May 31</td>
+        <td>May 31</td>
         <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>May 31</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
-        <td align="center">4</td>
-        <td>Criminal Rehabilitation and Alternate Sentencing Act</td>
+        <td align="center">*4</td>
+        <td>Criminal Rehabilitation and Alternative Sentencing Act</td>
         <td>Hon. Dakota_303</td>
         <td><a href="./First%20Reading/No.%204%20—%20Criminal%20Rehabilitation%20and%20Alternate%20Sentencing%20Act.md">May 24</a></td>
         <td>May 24</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>May 31</td>
+        <td>May 31</td>
+        <td><a href="./Amended/No.%204%20—%20Criminal%20Rehabilitation%20and%20Alternative%20Sentencing%20Act.md">May 31</a></td>
+        <td>May 31</td>
         <td></td>
         <td></td>
     </tr>
@@ -77,10 +77,10 @@
         <td>Hon. Dakota_303</td>
         <td><a href="./First%20Reading/No.%205%20—%20Legal%20Profession%20Statutes%20Amendment%20Act%2C%202025.md">May 24</a></td>
         <td>May 24</td>
+        <td>May 31</td>
+        <td>May 31</td>
         <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>May 31</td>
         <td></td>
         <td></td>
     </tr>
@@ -98,6 +98,9 @@
         <td></td>
     </tr>
 </table>
+<p align="left">
+* Title changed
+</p>
 
 ## MEMBERS' BILLS
 
@@ -109,7 +112,7 @@
         <th>Member</th>
         <th>First Reading</th>
         <th>Second Reading</th>
-        <th>Committee</th>
+        <th>Com-mittee</th>
         <th>Report</th>
         <th>Amended</th>
         <th>Third Reading</th>
@@ -130,7 +133,7 @@
         <td></td>
     </tr>
 </table>
-
+<!--
 ## PRIVATE BILLS
 
 <i>(Listing printed for convenience only)</i>
@@ -141,7 +144,7 @@
         <th>Member</th>
         <th>First Reading</th>
         <th>Second Reading</th>
-        <th>Committee</th>
+        <th>Com-mittee</th>
         <th>Report</th>
         <th>Amended</th>
         <th>Third Reading</th>
@@ -160,7 +163,7 @@
         <td>Mon. ##</td>
         <td>Mon. ##</td>
         <td>Mon. ##</td>
-    </tr>-->
-</table>
+    </tr>
+</table>-->
 
 </div>
