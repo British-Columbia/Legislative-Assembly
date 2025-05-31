@@ -121,7 +121,7 @@
         <td>Environmental Protection (Vehicle Idling) Act</td>
         <td>Hon. tthelakes</td>
         <td><a href="./First%20Reading/No.%20M%20201%20—%20Environmental%20Protection%20(Vehicle%20Idling)%20Act.md">May 24</a></td>
-        <td>May 24</td>
+        <td></td>
         <td></td>
         <td></td>
         <td></td>
