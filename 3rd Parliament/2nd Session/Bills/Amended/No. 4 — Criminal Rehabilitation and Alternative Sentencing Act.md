@@ -18,7 +18,7 @@ rafaelmanman, Clerk of the Legislative Assembly
 
 <h1>BILL 4 — 2025</h1>
 <h1>CRIMINAL REHABILITATION AND<br>
-ALTERNATIVE SENTENCING ACT</h1>
+<del>ALTERNATE</del><ins>ALTERNATIVE</ins> SENTENCING ACT</h1>
 
 </div>
 
@@ -28,7 +28,7 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
 
 1. In this Act:
 
-   **"alternative sentencing"** includes community service and the requirement of obtaining
+   **"<del>alternate</del><ins>alternative</ins> sentencing"** includes community service and the requirement of obtaining
 
    &nbsp;&nbsp;&nbsp;(a) employment,
 
@@ -52,7 +52,7 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
 
 #### Alternative sentencing
 
-3. A judge may utilize alternative sentencing in lieu of incarceration or similiar sentencing when they determine it appropriate to do so.
+3. A judge may utilize <del>alternate</del><ins>alternative</ins> sentencing in lieu of incarceration or similiar sentencing when they determine it appropriate to do so.
 
 #### Commencement
 
