@@ -54,7 +54,7 @@
         <td>May 31</td>
         <td>May 31</td>
         <td></td>
-        <td>May 31</td>
+        <td><a href="./Third%20Reading/No.%203%20—%20Public%20Service%20Act.md">May 31</a></td>
         <td></td>
         <td></td>
     </tr>
@@ -67,7 +67,7 @@
         <td>May 31</td>
         <td>May 31</td>
         <td><a href="./Amended/No.%204%20—%20Criminal%20Rehabilitation%20and%20Alternative%20Sentencing%20Act.md">May 31</a></td>
-        <td>May 31</td>
+        <td><a href="./Third%20Reading/No.%204%20—%20Criminal%20Rehabilitation%20and%20Alternative%20Sentencing%20Act.md">May 31</a></td>
         <td></td>
         <td></td>
     </tr>
@@ -80,7 +80,7 @@
         <td>May 31</td>
         <td>May 31</td>
         <td></td>
-        <td>May 31</td>
+        <td><a href="./Third%20Reading/No.%205%20—%20Legal%20Profession%20Statutes%20Amendment%20Act%2C%202025.md">May 31</a></td>
         <td></td>
         <td></td>
     </tr>
