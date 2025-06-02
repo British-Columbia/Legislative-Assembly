@@ -21,6 +21,15 @@ ALTERNATIVE SENTENCING ACT</h1>
 
 </div>
 
+<div align="center">
+<strong><i>Contents</i></strong>
+</div>
+
+&nbsp;&nbsp;&nbsp;[1 Definitions](#definitions)  
+&nbsp;&nbsp;&nbsp;[2 Criminal rehabilitation](#criminal-rehabilitation)  
+&nbsp;&nbsp;&nbsp;[3 Alternative sentencing](#alternative-sentencing)  
+&nbsp;&nbsp;&nbsp;[4 Commencement](#commencement)  
+
 HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of the Province of British Columbia, enacts as follows:
 
 #### Definitions
