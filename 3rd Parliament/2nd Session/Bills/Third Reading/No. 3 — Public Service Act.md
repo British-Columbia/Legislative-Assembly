@@ -21,7 +21,7 @@ rafaelmanman, Clerk of the Legislative Assembly
 </div>
 
 <div align="center">
-<strong>Contents</strong>
+<strong><i>Contents</i></strong>
 </div>
 
 &nbsp;&nbsp;&nbsp;[1 Definitions](#definitions)  
