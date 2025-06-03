@@ -108,10 +108,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla blandit erat vita
 
 <h3>SCHEDULE 2</h3>
 <h4>Lorem ipsum dolor sit amet</h4>
-
-<hr width="20%" />
-
-King's Printer for British Columbia©  
-Victoria, YYYY
-
-</div>
