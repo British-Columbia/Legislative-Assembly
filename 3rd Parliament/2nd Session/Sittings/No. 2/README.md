@@ -2,7 +2,7 @@
 
 _Second Session, 3rd Parliament_
 
-**Saturday, May 31, 2024**
+**Saturday, May 31, 2025**
 
 In the chair: Honourable S3aWo1fz, Speaker
 
