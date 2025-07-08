@@ -2,7 +2,7 @@
 
 For Report
 
-Certified correct as amended in Committee of the Whole on the 31st day of May, 2025  
+Certified correct as amended in Committee of the Whole on the 31st day of May, 2025
 rafaelmanman, Clerk of the Legislative Assembly
 <hr />
 
@@ -48,7 +48,7 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
 
 2. (1) A judge may authorize the use of criminal rehabilitation when they determine it appropriate to do so.
 
-   (2) Criminal rehabilitation may only be authorized when an individual seeks to set aside one or more convictions. 
+   (2) Criminal rehabilitation may only be authorized when an individual seeks to set aside one or more convictions.
 
 #### Alternative sentencing
 
@@ -59,10 +59,3 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
 4. This Act comes into force on the date of Royal Assent.
 
 <div align="center">
-
-<hr width="20%" />
-
-King's Printer for British Columbia©  
-Victoria, 2025
-
-</div>

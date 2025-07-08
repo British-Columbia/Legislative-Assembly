@@ -9,9 +9,9 @@
 <hr />
 <hr />
 
-Second Session, Third Parliament  
-3 Charles III, 2025  
-Legislative Assembly of British Columbia  
+Second Session, Third Parliament
+3 Charles III, 2025
+Legislative Assembly of British Columbia
 
 <hr />
 <hr />
@@ -66,7 +66,7 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
 
 2. (1) A judge may authorize the use of criminal rehabilitation when they determine it appropriate to do so.
 
-   (2) Criminal rehabilitation may only be authorized when an individual seeks to set aside one or more convictions. 
+   (2) Criminal rehabilitation may only be authorized when an individual seeks to set aside one or more convictions.
 
 #### Alternate sentencing
 
@@ -77,10 +77,3 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
 4. This Act comes into force on the date of Royal Assent.
 
 <div align="center">
-
-<hr width="20%" />
-
-King's Printer for British Columbia©  
-Victoria, 2025
-
-</div>

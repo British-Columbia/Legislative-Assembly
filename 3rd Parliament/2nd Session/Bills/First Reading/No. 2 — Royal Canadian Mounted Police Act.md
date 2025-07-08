@@ -9,9 +9,9 @@
 <hr />
 <hr />
 
-Second Session, Third Parliament  
-3 Charles III, 2025  
-Legislative Assembly of British Columbia  
+Second Session, Third Parliament
+3 Charles III, 2025
+Legislative Assembly of British Columbia
 
 <hr />
 <hr />
@@ -29,7 +29,7 @@ Legislative Assembly of British Columbia
 Honourable hxamz_a
 
 <hr />
-<hr />   
+<hr />
 
 </div>
 
@@ -37,25 +37,25 @@ Honourable hxamz_a
 <strong>Contents</strong>
 </div>
 
-**[Part 1 — Interpretation](#part-1--interpretation)**  
-&nbsp;&nbsp;&nbsp;[1 Definitions](#definitions)  
-**[Part 2 — Commissioner's Powers and Obligations](#part-2--commissioners-powers-and-obligations)**  
-&nbsp;&nbsp;&nbsp;[2 Disciplinary action issuance prerogrative](#disciplinary-action-issuance-prerogrative)  
-&nbsp;&nbsp;&nbsp;[3 Mandate of a Standard Operating Procedure](#mandate-of-a-standard-operating-procedure)  
-&nbsp;&nbsp;&nbsp;[4 Reasonable disciplinary action issuance](#reasonable-disciplinary-action-issuance)  
-**[Part 3 — Commissioner's Duties When Transferable](#part-3--commissioners-duties-when-transferable)**  
-&nbsp;&nbsp;&nbsp;[5–7 Transfer of powers when absent](#transfer-of-powers-when-absent)  
-**[Part 4 — Force's Interaction with Armed Forces when Necessary](#part-4--forces-interaction-with-armed-forces-when-necessary)**  
-&nbsp;&nbsp;&nbsp;[8 Conversion of parts of Force to Armed Forces](#conversion-of-parts-of-force-to-armed-forces)  
-**[Part 5 — External Review Committee](#part-5--external-review-committee)**  
-&nbsp;&nbsp;&nbsp;[9 Revised Employee Rights Bylaw exemption](#revised-employee-rights-bylaw-exemption)  
-&nbsp;&nbsp;&nbsp;[10 External Review Committee](#external-review-committee)  
-&nbsp;&nbsp;&nbsp;[11 Eligibility of membership within Committee](#eligibility-of-membership-within-committee)  
-&nbsp;&nbsp;&nbsp;[12 Internal regulation of Committee](#internal-regulation-of-committee)  
-&nbsp;&nbsp;&nbsp;[13 Duties of Committee](#duties-of-committee)  
-&nbsp;&nbsp;&nbsp;[14–16 Acceptance of appeal](#acceptance-of-appeal)  
-**[Part 6 — Consequential Amendment](#part-6--consequential-amendment)**  
-&nbsp;&nbsp;&nbsp;[17 Consequential Amendment](#consequential-amendment)  
+**[Part 1 — Interpretation](#part-1--interpretation)**
+&nbsp;&nbsp;&nbsp;[1 Definitions](#definitions)
+**[Part 2 — Commissioner's Powers and Obligations](#part-2--commissioners-powers-and-obligations)**
+&nbsp;&nbsp;&nbsp;[2 Disciplinary action issuance prerogrative](#disciplinary-action-issuance-prerogrative)
+&nbsp;&nbsp;&nbsp;[3 Mandate of a Standard Operating Procedure](#mandate-of-a-standard-operating-procedure)
+&nbsp;&nbsp;&nbsp;[4 Reasonable disciplinary action issuance](#reasonable-disciplinary-action-issuance)
+**[Part 3 — Commissioner's Duties When Transferable](#part-3--commissioners-duties-when-transferable)**
+&nbsp;&nbsp;&nbsp;[5–7 Transfer of powers when absent](#transfer-of-powers-when-absent)
+**[Part 4 — Force's Interaction with Armed Forces when Necessary](#part-4--forces-interaction-with-armed-forces-when-necessary)**
+&nbsp;&nbsp;&nbsp;[8 Conversion of parts of Force to Armed Forces](#conversion-of-parts-of-force-to-armed-forces)
+**[Part 5 — External Review Committee](#part-5--external-review-committee)**
+&nbsp;&nbsp;&nbsp;[9 Revised Employee Rights Bylaw exemption](#revised-employee-rights-bylaw-exemption)
+&nbsp;&nbsp;&nbsp;[10 External Review Committee](#external-review-committee)
+&nbsp;&nbsp;&nbsp;[11 Eligibility of membership within Committee](#eligibility-of-membership-within-committee)
+&nbsp;&nbsp;&nbsp;[12 Internal regulation of Committee](#internal-regulation-of-committee)
+&nbsp;&nbsp;&nbsp;[13 Duties of Committee](#duties-of-committee)
+&nbsp;&nbsp;&nbsp;[14–16 Acceptance of appeal](#acceptance-of-appeal)
+**[Part 6 — Consequential Amendment](#part-6--consequential-amendment)**
+&nbsp;&nbsp;&nbsp;[17 Consequential Amendment](#consequential-amendment)
 &nbsp;&nbsp;&nbsp;[18 Commencement](#commencement)
 
 <details>
@@ -78,7 +78,7 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
     **"assistant commissioner"** means the assistant commissioner of the Royal Canadian Mounted Police;
 
     **"brigadier general"** means the commander of the 3rd Canadian Division;
-   
+
     **"commissioner"** means the commissioner of the Royal Canadian Mounted Police;
 
     **"Committee"** means the Royal Canadian Mounted Police External Review Committee, established under Part 6;
@@ -88,7 +88,7 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
     **"disciplinary action"** has the same meaning as in the *Revised Employee Rights Bylaw*;
 
     **"Force"** means the Royal Canadian Mounted Police;
-   
+
     **"*Revised Employee Rights Bylaw*"** means the *Revised Employee Rights Bylaw*, C.B. 28;
 
     **"senior deputy commissioner"** means the senior deputy commissioner of the Royal Canadian Mounted Police;
@@ -152,7 +152,7 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
    (2) Members of the Force may temporarily assume the powers and privileges of members of the Armed Forces or of service members or be assigned to an internal organization of the Armed Forces, while being subject to Armed Forces internal discipline, provided
 
       &nbsp;&nbsp;&nbsp;(a) a state of war exists with another entity, or an emergency has been declared by the Premier, and
-      
+
       &nbsp;&nbsp;&nbsp;(b) the commissioner and brigadier general jointly agree to it.
 
 <div align="center">
@@ -218,16 +218,9 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
    <h4>RCMP exempted</h4>
    11. The Royal Canadian Mounted Police, the Canadian Security Intelligence Service, and the Canadian Armed Forces shall all be exempted from complying with this Act.
 </blockquote>
-   
+
 #### Commencement
 
 18. This Act comes into force on the date of Royal Assent.
 
 <div align="center">
-
-<hr width="20%" />
-
-King's Printer for British Columbia©  
-Victoria, 2025
-
-</div>

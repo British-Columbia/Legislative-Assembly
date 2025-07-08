@@ -9,9 +9,9 @@
 <hr />
 <hr />
 
-Second Session, Third Parliament  
-3 Charles III, 2025  
-Legislative Assembly of British Columbia  
+Second Session, Third Parliament
+3 Charles III, 2025
+Legislative Assembly of British Columbia
 
 <hr />
 <hr />
@@ -37,15 +37,15 @@ Honourable Dakota_303
 <strong>Contents</strong>
 </div>
 
-&nbsp;&nbsp;&nbsp;[1 Definitions](#definitions)  
-&nbsp;&nbsp;&nbsp;[2 Application of Act](#application-of-act)  
-&nbsp;&nbsp;&nbsp;[3 BC Public Service](#bc-public-service)  
-&nbsp;&nbsp;&nbsp;[4 Head of the public service](#head-of-the-public-service)  
-&nbsp;&nbsp;&nbsp;[5 Deputy ministers](#deputy-ministers)  
-&nbsp;&nbsp;&nbsp;[6 Associate deputy minister](#associate-deputy-minister)  
-&nbsp;&nbsp;&nbsp;[7 Dismissal of members of public service](#dismissal-of-members-of-public-service)  
-&nbsp;&nbsp;&nbsp;[8-10 Appointment of other employees](#appointment-of-other-employees)  
-&nbsp;&nbsp;&nbsp;[11-12 Consequential amendment](#consequential-amendment)  
+&nbsp;&nbsp;&nbsp;[1 Definitions](#definitions)
+&nbsp;&nbsp;&nbsp;[2 Application of Act](#application-of-act)
+&nbsp;&nbsp;&nbsp;[3 BC Public Service](#bc-public-service)
+&nbsp;&nbsp;&nbsp;[4 Head of the public service](#head-of-the-public-service)
+&nbsp;&nbsp;&nbsp;[5 Deputy ministers](#deputy-ministers)
+&nbsp;&nbsp;&nbsp;[6 Associate deputy minister](#associate-deputy-minister)
+&nbsp;&nbsp;&nbsp;[7 Dismissal of members of public service](#dismissal-of-members-of-public-service)
+&nbsp;&nbsp;&nbsp;[8-10 Appointment of other employees](#appointment-of-other-employees)
+&nbsp;&nbsp;&nbsp;[11-12 Consequential amendment](#consequential-amendment)
 &nbsp;&nbsp;&nbsp;[13 Commencement](#commencement)
 
 <details>
@@ -260,10 +260,3 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
 13. This Act comes into force on the date of Royal Assent.
 
 <div align="center">
-
-<hr width="20%" />
-
-King's Printer for British Columbia©  
-Victoria, 2025
-
-</div>

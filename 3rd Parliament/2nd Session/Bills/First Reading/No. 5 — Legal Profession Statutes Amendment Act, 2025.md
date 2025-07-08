@@ -9,9 +9,9 @@
 <hr />
 <hr />
 
-Second Session, Third Parliament  
-3 Charles III, 2025  
-Legislative Assembly of British Columbia  
+Second Session, Third Parliament
+3 Charles III, 2025
+Legislative Assembly of British Columbia
 
 <hr />
 <hr />
@@ -104,7 +104,7 @@ CLAUSE 2: <strong><i>[Contract Act, section 8]</i></strong> amends the section t
     &nbsp;&nbsp;&nbsp;(a) by striking out “</i></strong>law.<strong><i>” and substituting “</i></strong>law;<strong><i>”, and
 
     &nbsp;&nbsp;&nbsp;(b) by adding the following definition:
-    
+
     > </i></strong>“Society” means the Law Society of British Columbia.<strong><i> .
 
 </i></strong>
@@ -280,7 +280,7 @@ CLAUSE 6: <strong><i>[Law Society Act, section 8]</i></strong> modifies the Soci
 17. Sections 32 and 34 are amended
 
     &nbsp;&nbsp;&nbsp;(a) by striking out “</i></strong>a law license<strong><i>” and substituting “</i></strong>a Society member's membership<strong><i>”, and
-    
+
     &nbsp;&nbsp;&nbsp;(b) by striking out “</i></strong>said law license<strong><i>” and substituting “</i></strong>said Society membership<strong><i>”.
 
 </i></strong>
@@ -295,7 +295,7 @@ CLAUSE 6: <strong><i>[Law Society Act, section 8]</i></strong> modifies the Soci
 18. Section 33 is amended
 
     &nbsp;&nbsp;&nbsp;(a) by striking out “</i></strong>a law license<strong><i>” and substituting “</i></strong>a Society member's membership<strong><i>”, and
-    
+
     &nbsp;&nbsp;&nbsp;(b) by striking out “</i></strong>the law license<strong><i>” and substituting “</i></strong>the said Society membership<strong><i>”.
 
 </i></strong>
@@ -448,10 +448,3 @@ CLAUSE 28: <strong><i>[Offences By-law, section 128]</i></strong>
 </i></strong>
 
 <div align="center">
-
-<hr width="20%" />
-
-King's Printer for British Columbia©  
-Victoria, 2025
-
-</div>

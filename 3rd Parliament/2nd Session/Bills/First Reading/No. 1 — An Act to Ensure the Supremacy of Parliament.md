@@ -9,9 +9,9 @@
 <hr />
 <hr />
 
-Second Session, Third Parliament  
-3 Charles III, 2025  
-Legislative Assembly of British Columbia  
+Second Session, Third Parliament
+3 Charles III, 2025
+Legislative Assembly of British Columbia
 
 <hr />
 <hr />
@@ -26,7 +26,7 @@ Legislative Assembly of British Columbia
 <hr />
 <hr />
 
-Honourable hxamz_a  
+Honourable hxamz_a
 Government Whip
 
 <hr />
@@ -39,10 +39,3 @@ This *Act to Ensure the Supremacy of Parliament* is an important part of our dem
 This Bill simply asserts the ancient right of the Legislative Assembly to give precedence to matters other than those expressed by the Sovereign.
 
 <div align="center">
-
-<hr width="20%" />
-
-King's Printer for British Columbia©  
-Victoria, 2025
-
-</div>

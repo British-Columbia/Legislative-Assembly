@@ -9,9 +9,9 @@
 <hr />
 <hr />
 
-Second Session, Third Parliament  
-3 Charles III, 2025  
-Legislative Assembly of British Columbia  
+Second Session, Third Parliament
+3 Charles III, 2025
+Legislative Assembly of British Columbia
 
 <hr />
 <hr />
@@ -66,7 +66,7 @@ This Bill aims to reduce air and noise pollution by prohibiting the unnecessary 
 
 4. <strong><i>The Offences By-law, C.B. 116, is amended by adding the following section:</strong></i>
 > **Idling**
-> 
+>
 > 202.1 A person must not cause a conveyance to idle for more than two consecutive minutes in any public place.
 
 5. <strong><i>Schedule D is amended by adding the following entry:</strong></i>
@@ -88,10 +88,3 @@ This Bill aims to reduce air and noise pollution by prohibiting the unnecessary 
 6. This Act comes into force on the date of Royal Assent.
 
 <div align="center">
-
-<hr width="20%" />
-
-King's Printer for British Columbia©  
-Victoria, 2025
-
-</div>

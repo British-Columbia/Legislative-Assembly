@@ -9,9 +9,9 @@
 <hr />
 <hr />
 
-Second Session, Third Parliament  
-3 Charles III, 2025  
-Legislative Assembly of British Columbia  
+Second Session, Third Parliament
+3 Charles III, 2025
+Legislative Assembly of British Columbia
 
 <hr />
 <hr />
@@ -60,13 +60,13 @@ CLAUSE 2: <strong><i>[Ministry of Trade Act, sections 14.1 to 14.3]</i></strong>
 2. <strong><i>The following sections are added:</strong></i>
 
 > 14.1. The Ministry may not implement regulations which exclusively apply to one or more news agencies.
-> 
+>
 > **Grading schemes**
-> 
+>
 > 14.2. The Ministry may not implement grading schemes which exclusively apply to one or more news agencies, including, without limitation, a grading based on the truthfulness of an item released by a news agency.
-> 
+>
 > **Miscellaneous cases**
-> 
+>
 > 14.3. The Ministry may not otherwise subject news agencies to scrutiny which it does not subject other businesses to.
 
 #### Commencement
@@ -74,10 +74,3 @@ CLAUSE 2: <strong><i>[Ministry of Trade Act, sections 14.1 to 14.3]</i></strong>
 3. This Act comes into force on the date of Royal Assent.
 
 <div align="center">
-
-<hr width="20%" />
-
-King's Printer for British Columbia©  
-Victoria, 2025
-
-</div>

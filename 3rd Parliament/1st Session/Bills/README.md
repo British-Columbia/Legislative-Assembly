@@ -17,7 +17,7 @@
         <th>Amended</th>
         <th>Third Reading</th>
         <th>Royal Assent</th>
-        <th>R.S.B.C. Chap. No.</th>
+        <th>S.B.C. Chap. No.</th>
     <tr>
     <tr>
         <td align="center">1</td>
@@ -62,7 +62,7 @@
         <th>Amended</th>
         <th>Third Reading</th>
         <th>Royal Assent</th>
-        <th>R.S.B.C. Chap. No.</th>
+        <th>S.B.C. Chap. No.</th>
     <tr>
     <!--<tr>
         <td>M 201</td>
@@ -94,7 +94,7 @@
         <th>Amended</th>
         <th>Third Reading</th>
         <th>Royal Assent</th>
-        <th>R.S.B.C. Chap. No.</th>
+        <th>S.B.C. Chap. No.</th>
     <tr>
     <!--<tr>
         <td align="center">Pr 401</td>

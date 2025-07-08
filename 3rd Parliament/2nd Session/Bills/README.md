@@ -17,7 +17,7 @@
         <th>Amended</th>
         <th>Third Reading</th>
         <th>Royal Assent</th>
-        <th>R.S.B.C. Chap. No.</th>
+        <th>S.B.C. Chap. No.</th>
     <tr>
     <tr>
         <td align="center">1</td>
@@ -56,7 +56,7 @@
         <td></td>
         <td><a href="./Third%20Reading/No.%203%20—%20Public%20Service%20Act.md">May 31</a></td>
         <td></td>
-        <td></td>
+        <td><a href="https://github.com/British-Columbia/Kings-Printer/blob/main/SBC/2025/2.md">S.B.C 2025, c. 2</a></td>
     </tr>
     <tr>
         <td align="center">*4</td>
@@ -69,7 +69,7 @@
         <td><a href="./Amended/No.%204%20—%20Criminal%20Rehabilitation%20and%20Alternative%20Sentencing%20Act.md">May 31</a></td>
         <td><a href="./Third%20Reading/No.%204%20—%20Criminal%20Rehabilitation%20and%20Alternative%20Sentencing%20Act.md">May 31</a></td>
         <td></td>
-        <td></td>
+        <td><a href="https://github.com/British-Columbia/Kings-Printer/blob/main/SBC/2025/3.md">S.B.C 2025, c. 3</a></td>
     </tr>
     <tr>
         <td align="center">5</td>
@@ -82,7 +82,7 @@
         <td></td>
         <td><a href="./Third%20Reading/No.%205%20—%20Legal%20Profession%20Statutes%20Amendment%20Act%2C%202025.md">May 31</a></td>
         <td></td>
-        <td></td>
+        <td><a href="https://github.com/British-Columbia/Kings-Printer/blob/main/SBC/2025/4.md">S.B.C 2025, c. 4</a></td>
     </tr>
     <tr>
         <td align="center">6</td>
@@ -95,7 +95,7 @@
         <td></td>
         <td></td>
         <td></td>
-        <td></td>
+        <td><a href="https://github.com/British-Columbia/Kings-Printer/blob/main/SBC/2025/5.md">S.B.C 2025, c. 5</a></td>
     </tr>
 </table>
 <p align="left">
@@ -117,7 +117,7 @@
         <th>Amended</th>
         <th>Third Reading</th>
         <th>Royal Assent</th>
-        <th>R.S.B.C. Chap. No.</th>
+        <th>S.B.C. Chap. No.</th>
     <tr>
     <tr>
         <td align="center">M 201</td>
@@ -149,7 +149,7 @@
         <th>Amended</th>
         <th>Third Reading</th>
         <th>Royal Assent</th>
-        <th>R.S.B.C. Chap. No.</th>
+        <th>S.B.C. Chap. No.</th>
     <tr>
     <!--<tr>
         <td align="center">Pr 401</td>

@@ -61,7 +61,7 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
     &nbsp;&nbsp;&nbsp;(a) by striking out “</i></strong>law.<strong><i>” and substituting “</i></strong>law;<strong><i>”, and
 
     &nbsp;&nbsp;&nbsp;(b) by adding the following definition:
-    
+
     > </i></strong>“Society” means the Law Society of British Columbia.<strong><i> .
 
 </i></strong>
@@ -115,13 +115,13 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
 17. Sections 32 and 34 are amended
 
     &nbsp;&nbsp;&nbsp;(a) by striking out “</i></strong>a law license<strong><i>” and substituting “</i></strong>a Society member's membership<strong><i>”, and
-    
+
     &nbsp;&nbsp;&nbsp;(b) by striking out “</i></strong>said law license<strong><i>” and substituting “</i></strong>said Society membership<strong><i>”.
 
 18. Section 33 is amended
 
     &nbsp;&nbsp;&nbsp;(a) by striking out “</i></strong>a law license<strong><i>” and substituting “</i></strong>a Society member's membership<strong><i>”, and
-    
+
     &nbsp;&nbsp;&nbsp;(b) by striking out “</i></strong>the law license<strong><i>” and substituting “</i></strong>the said Society membership<strong><i>”.
 
 19. Section 35 is amended
@@ -180,10 +180,3 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
 29. This Act comes into force on the date of Royal Assent.
 
 <div align="center">
-
-<hr width="20%" />
-
-King's Printer for British Columbia©  
-Victoria, 2025
-
-</div>

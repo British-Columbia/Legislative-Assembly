@@ -9,9 +9,9 @@
 <hr />
 <hr />
 
-First Session, Third Parliament,  
-3 Charles III, 2024  
-Legislative Assembly of British Columbia  
+First Session, Third Parliament,
+3 Charles III, 2024
+Legislative Assembly of British Columbia
 
 <hr />
 <hr />
@@ -26,7 +26,7 @@ Legislative Assembly of British Columbia
 <hr />
 <hr />
 
-Honourable Antonio_Gamer1567  
+Honourable Antonio_Gamer1567
 Premier
 
 <hr />
@@ -47,7 +47,7 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
 #### Definitions
 
 2. In this Act, unless the context otherwise requires—
-   
+
     "Commissioner" means the Commissioner of the Royal Canadian Mounted Police;
 
     "Deputy Commissioner" means the Deputy Commissioner of the Royal Canadian Mounted Police;
@@ -55,7 +55,7 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
     "Assistant Commissioner" means the Assistant Commissioner of the Royal Canadian Mounted Police;
 
      "Chief Superintendent" means Chief Superintendents of the Royal Canadian Mounted Police;
-   
+
     "RERB" means C.B. 28;
 
     "Force" means the Royal Canadian Mounted Police;
@@ -106,10 +106,10 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
 
 #### Conversion of one or more parts of the Force to the Armed Forces
 
-9. Members of the Force may temporarily assume the powers and privileges of members of the Armed Forces or of service members within the meaning of the Defence By-Law of 2023, or be assigned to an internal organization of the Armed Forces, while being subject to Armed Forces internal discipline, provided— 
+9. Members of the Force may temporarily assume the powers and privileges of members of the Armed Forces or of service members within the meaning of the Defence By-Law of 2023, or be assigned to an internal organization of the Armed Forces, while being subject to Armed Forces internal discipline, provided—
 
       &nbsp;&nbsp;&nbsp;(a) a state of war exists with another entity, or an emergency has been declared by the Premier; and
-      
+
       &nbsp;&nbsp;&nbsp;(b) the Commissioner and Brigadier General jointly agree to it.
 
 <div align="center">
@@ -125,10 +125,3 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
     &nbsp;&nbsp;&nbsp;(b) by appending Section 11 within Part 6, which shall read as 'The Royal Canadian Mounted Police, the Canadian Security Intelligence Service, and the Canadian Armed Forces shall all be exempted from complying with this Act.
 
 <div align="center">
-
-<hr width="20%" />
-
-King's Printer for British Columbia©  
-Victoria, 2024
-
-</div>
