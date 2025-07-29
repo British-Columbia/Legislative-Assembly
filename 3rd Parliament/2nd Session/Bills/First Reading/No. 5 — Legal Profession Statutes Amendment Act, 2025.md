@@ -9,8 +9,8 @@
 <hr />
 <hr />
 
-Second Session, Third Parliament
-3 Charles III, 2025
+Second Session, Third Parliament<br />
+3 Charles III, 2025<br />
 Legislative Assembly of British Columbia
 
 <hr />
@@ -444,7 +444,3 @@ CLAUSE 28: <strong><i>[Offences By-law, section 128]</i></strong>
 #### Commencement
 
 29. This Act comes into force on the date of Royal Assent.
-
-</i></strong>
-
-<div align="center">
