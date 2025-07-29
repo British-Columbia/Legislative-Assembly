@@ -9,8 +9,8 @@
 <hr />
 <hr />
 
-Second Session, Third Parliament
-3 Charles III, 2025
+Second Session, Third Parliament<br />
+3 Charles III, 2025<br />
 Legislative Assembly of British Columbia
 
 <hr />
@@ -37,25 +37,25 @@ Honourable hxamz_a
 <strong>Contents</strong>
 </div>
 
-**[Part 1 — Interpretation](#part-1--interpretation)**
-&nbsp;&nbsp;&nbsp;[1 Definitions](#definitions)
-**[Part 2 — Commissioner's Powers and Obligations](#part-2--commissioners-powers-and-obligations)**
-&nbsp;&nbsp;&nbsp;[2 Disciplinary action issuance prerogrative](#disciplinary-action-issuance-prerogrative)
-&nbsp;&nbsp;&nbsp;[3 Mandate of a Standard Operating Procedure](#mandate-of-a-standard-operating-procedure)
-&nbsp;&nbsp;&nbsp;[4 Reasonable disciplinary action issuance](#reasonable-disciplinary-action-issuance)
-**[Part 3 — Commissioner's Duties When Transferable](#part-3--commissioners-duties-when-transferable)**
-&nbsp;&nbsp;&nbsp;[5–7 Transfer of powers when absent](#transfer-of-powers-when-absent)
-**[Part 4 — Force's Interaction with Armed Forces when Necessary](#part-4--forces-interaction-with-armed-forces-when-necessary)**
-&nbsp;&nbsp;&nbsp;[8 Conversion of parts of Force to Armed Forces](#conversion-of-parts-of-force-to-armed-forces)
-**[Part 5 — External Review Committee](#part-5--external-review-committee)**
-&nbsp;&nbsp;&nbsp;[9 Revised Employee Rights Bylaw exemption](#revised-employee-rights-bylaw-exemption)
-&nbsp;&nbsp;&nbsp;[10 External Review Committee](#external-review-committee)
-&nbsp;&nbsp;&nbsp;[11 Eligibility of membership within Committee](#eligibility-of-membership-within-committee)
-&nbsp;&nbsp;&nbsp;[12 Internal regulation of Committee](#internal-regulation-of-committee)
-&nbsp;&nbsp;&nbsp;[13 Duties of Committee](#duties-of-committee)
-&nbsp;&nbsp;&nbsp;[14–16 Acceptance of appeal](#acceptance-of-appeal)
-**[Part 6 — Consequential Amendment](#part-6--consequential-amendment)**
-&nbsp;&nbsp;&nbsp;[17 Consequential Amendment](#consequential-amendment)
+**[Part 1 — Interpretation](#part-1--interpretation)**<br />
+&nbsp;&nbsp;&nbsp;[1 Definitions](#definitions)<br />
+**[Part 2 — Commissioner's Powers and Obligations](#part-2--commissioners-powers-and-obligations)**<br />
+&nbsp;&nbsp;&nbsp;[2 Disciplinary action issuance prerogrative](#disciplinary-action-issuance-prerogrative)<br />
+&nbsp;&nbsp;&nbsp;[3 Mandate of a Standard Operating Procedure](#mandate-of-a-standard-operating-procedure)<br />
+&nbsp;&nbsp;&nbsp;[4 Reasonable disciplinary action issuance](#reasonable-disciplinary-action-issuance)<br />
+**[Part 3 — Commissioner's Duties When Transferable](#part-3--commissioners-duties-when-transferable)**<br />
+&nbsp;&nbsp;&nbsp;[5–7 Transfer of powers when absent](#transfer-of-powers-when-absent)<br />
+**[Part 4 — Force's Interaction with Armed Forces when Necessary](#part-4--forces-interaction-with-armed-forces-when-necessary)**<br />
+&nbsp;&nbsp;&nbsp;[8 Conversion of parts of Force to Armed Forces](#conversion-of-parts-of-force-to-armed-forces)<br />
+**[Part 5 — External Review Committee](#part-5--external-review-committee)**<br />
+&nbsp;&nbsp;&nbsp;[9 Revised Employee Rights Bylaw exemption](#revised-employee-rights-bylaw-exemption)<br />
+&nbsp;&nbsp;&nbsp;[10 External Review Committee](#external-review-committee)<br />
+&nbsp;&nbsp;&nbsp;[11 Eligibility of membership within Committee](#eligibility-of-membership-within-committee)<br />
+&nbsp;&nbsp;&nbsp;[12 Internal regulation of Committee](#internal-regulation-of-committee)<br />
+&nbsp;&nbsp;&nbsp;[13 Duties of Committee](#duties-of-committee)<br />
+&nbsp;&nbsp;&nbsp;[14–16 Acceptance of appeal](#acceptance-of-appeal)<br />
+**[Part 6 — Consequential Amendment](#part-6--consequential-amendment)**<br />
+&nbsp;&nbsp;&nbsp;[17 Consequential Amendment](#consequential-amendment)<br />
 &nbsp;&nbsp;&nbsp;[18 Commencement](#commencement)
 
 <details>
@@ -222,5 +222,3 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
 #### Commencement
 
 18. This Act comes into force on the date of Royal Assent.
-
-<div align="center">
