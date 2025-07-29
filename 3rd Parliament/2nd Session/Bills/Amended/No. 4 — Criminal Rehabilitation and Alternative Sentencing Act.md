@@ -2,7 +2,7 @@
 
 For Report
 
-Certified correct as amended in Committee of the Whole on the 31st day of May, 2025
+Certified correct as amended in Committee of the Whole on the 31st day of May, 2025<br />
 rafaelmanman, Clerk of the Legislative Assembly
 <hr />
 
@@ -57,5 +57,3 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
 #### Commencement
 
 4. This Act comes into force on the date of Royal Assent.
-
-<div align="center">
