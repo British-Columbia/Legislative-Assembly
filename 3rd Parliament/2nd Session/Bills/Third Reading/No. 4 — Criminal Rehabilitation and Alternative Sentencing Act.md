@@ -25,9 +25,9 @@ ALTERNATIVE SENTENCING ACT</h1>
 <strong><i>Contents</i></strong>
 </div>
 
-&nbsp;&nbsp;&nbsp;[1 Definitions](#definitions)
-&nbsp;&nbsp;&nbsp;[2 Criminal rehabilitation](#criminal-rehabilitation)
-&nbsp;&nbsp;&nbsp;[3 Alternative sentencing](#alternative-sentencing)
+&nbsp;&nbsp;&nbsp;[1 Definitions](#definitions)<br />
+&nbsp;&nbsp;&nbsp;[2 Criminal rehabilitation](#criminal-rehabilitation)<br />
+&nbsp;&nbsp;&nbsp;[3 Alternative sentencing](#alternative-sentencing)<br />
 &nbsp;&nbsp;&nbsp;[4 Commencement](#commencement)
 
 HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of the Province of British Columbia, enacts as follows:
@@ -65,5 +65,3 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
 #### Commencement
 
 4. This Act comes into force on the date of Royal Assent.
-
-<div align="center">
