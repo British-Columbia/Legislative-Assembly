@@ -32,7 +32,15 @@ Honourable Dakota_303
 <hr />
 
 </div>
-</i></strong>
+
+<div align="center">
+<strong><i>Contents</i></strong>
+</div>
+
+&nbsp;&nbsp;&nbsp;[1 Definitions](#definitions)<br />
+&nbsp;&nbsp;&nbsp;[2 Criminal rehabilitation](#criminal-rehabilitation)<br />
+&nbsp;&nbsp;&nbsp;[3 Alternate sentencing](#alternate-sentencing)<br />
+&nbsp;&nbsp;&nbsp;[4 Commencement](#commencement)
 
 <details>
 <summary>Explanatory Note</summary>
