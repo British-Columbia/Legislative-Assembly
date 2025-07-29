@@ -9,8 +9,8 @@
 <hr />
 <hr />
 
-Second Session, Third Parliament
-3 Charles III, 2025
+Second Session, Third Parliament<br />
+3 Charles III, 2025<br />
 Legislative Assembly of British Columbia
 
 <hr />
@@ -86,5 +86,3 @@ This Bill aims to reduce air and noise pollution by prohibiting the unnecessary 
 #### Commencement
 
 6. This Act comes into force on the date of Royal Assent.
-
-<div align="center">
