@@ -9,8 +9,8 @@
 <hr />
 <hr />
 
-Second Session, Third Parliament
-3 Charles III, 2025
+Second Session, Third Parliament<br />
+3 Charles III, 2025<br />
 Legislative Assembly of British Columbia
 
 <hr />
@@ -72,5 +72,3 @@ CLAUSE 2: <strong><i>[Ministry of Trade Act, sections 14.1 to 14.3]</i></strong>
 #### Commencement
 
 3. This Act comes into force on the date of Royal Assent.
-
-<div align="center">
