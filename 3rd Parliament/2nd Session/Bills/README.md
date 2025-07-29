@@ -55,8 +55,8 @@
         <td>May 31</td>
         <td></td>
         <td><a href="./Third%20Reading/No.%203%20—%20Public%20Service%20Act.md">May 31</a></td>
-        <td></td>
-        <td><a href="https://github.com/British-Columbia/Kings-Printer/blob/main/SBC/2025/2.md">S.B.C 2025, c. 2</a></td>
+        <td>Jul 8</td>
+        <td><a href="https://github.com/British-Columbia/Kings-Printer/blob/main/SBC/2025/2.md">2</a></td>
     </tr>
     <tr>
         <td align="center">*4</td>
@@ -68,8 +68,8 @@
         <td>May 31</td>
         <td><a href="./Amended/No.%204%20—%20Criminal%20Rehabilitation%20and%20Alternative%20Sentencing%20Act.md">May 31</a></td>
         <td><a href="./Third%20Reading/No.%204%20—%20Criminal%20Rehabilitation%20and%20Alternative%20Sentencing%20Act.md">May 31</a></td>
-        <td></td>
-        <td><a href="https://github.com/British-Columbia/Kings-Printer/blob/main/SBC/2025/3.md">S.B.C 2025, c. 3</a></td>
+        <td>Jul 8</td>
+        <td><a href="https://github.com/British-Columbia/Kings-Printer/blob/main/SBC/2025/3.md">3</a></td>
     </tr>
     <tr>
         <td align="center">5</td>
@@ -81,8 +81,8 @@
         <td>May 31</td>
         <td></td>
         <td><a href="./Third%20Reading/No.%205%20—%20Legal%20Profession%20Statutes%20Amendment%20Act%2C%202025.md">May 31</a></td>
-        <td></td>
-        <td><a href="https://github.com/British-Columbia/Kings-Printer/blob/main/SBC/2025/4.md">S.B.C 2025, c. 4</a></td>
+        <td>Jul 8</td>
+        <td><a href="https://github.com/British-Columbia/Kings-Printer/blob/main/SBC/2025/4.md">4</a></td>
     </tr>
     <tr>
         <td align="center">6</td>
@@ -90,12 +90,38 @@
         <td>Hon. Dakota_303</td>
         <td><a href="./First%20Reading/No.%206%20—%20Ministry%20of%20Trade%20Amendment%20Act%2C%202025.md">May 24</a></td>
         <td>May 24</td>
+        <td>Jun 7</td>
+        <td>Jun 7</td>
+        <td></td>
+        <td>Jun 7</td>
+        <td>Jul 8</td>
+        <td><a href="https://github.com/British-Columbia/Kings-Printer/blob/main/SBC/2025/5.md">5</a></td>
+    </tr>
+    <tr>
+        <td align="center">7</td>
+        <td>Executive Appointments Amendment Act, 2025</td>
+        <td>Hon. Dakota_303</td>
+        <td><a href="./First%20Reading/No.%207%20—%20Executive%20Appointments%20Amendment%20Act%2C%202025.md">Jul 24</a></td>
         <td></td>
         <td></td>
         <td></td>
         <td></td>
         <td></td>
-        <td><a href="https://github.com/British-Columbia/Kings-Printer/blob/main/SBC/2025/5.md">S.B.C 2025, c. 5</a></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td align="center">8</td>
+        <td>Law Society Amendment Act, 2025</td>
+        <td>Hon. vd207</td>
+        <td><a href="./First%20Reading/No.%208%20—%20Law%20Society%20Amendment%20Act%2C%202025.md">Jul 28</a></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
     </tr>
 </table>
 <p align="left">
