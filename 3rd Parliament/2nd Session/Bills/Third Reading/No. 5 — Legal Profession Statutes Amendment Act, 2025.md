@@ -178,5 +178,3 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
 #### Commencement
 
 29. This Act comes into force on the date of Royal Assent.
-
-<div align="center">
