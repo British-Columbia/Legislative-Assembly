@@ -24,15 +24,15 @@ rafaelmanman, Clerk of the Legislative Assembly
 <strong><i>Contents</i></strong>
 </div>
 
-&nbsp;&nbsp;&nbsp;[1 Definitions](#definitions)
-&nbsp;&nbsp;&nbsp;[2 Application of Act](#application-of-act)
-&nbsp;&nbsp;&nbsp;[3 BC Public Service](#bc-public-service)
-&nbsp;&nbsp;&nbsp;[4 Head of the public service](#head-of-the-public-service)
-&nbsp;&nbsp;&nbsp;[5 Deputy ministers](#deputy-ministers)
-&nbsp;&nbsp;&nbsp;[6 Associate deputy minister](#associate-deputy-minister)
-&nbsp;&nbsp;&nbsp;[7 Dismissal of members of public service](#dismissal-of-members-of-public-service)
-&nbsp;&nbsp;&nbsp;[8-10 Appointment of other employees](#appointment-of-other-employees)
-&nbsp;&nbsp;&nbsp;[11-12 Consequential amendment](#consequential-amendment)
+&nbsp;&nbsp;&nbsp;[1 Definitions](#definitions)<br />
+&nbsp;&nbsp;&nbsp;[2 Application of Act](#application-of-act)<br />
+&nbsp;&nbsp;&nbsp;[3 BC Public Service](#bc-public-service)<br />
+&nbsp;&nbsp;&nbsp;[4 Head of the public service](#head-of-the-public-service)<br />
+&nbsp;&nbsp;&nbsp;[5 Deputy ministers](#deputy-ministers)<br />
+&nbsp;&nbsp;&nbsp;[6 Associate deputy minister](#associate-deputy-minister)<br />
+&nbsp;&nbsp;&nbsp;[7 Dismissal of members of public service](#dismissal-of-members-of-public-service)<br />
+&nbsp;&nbsp;&nbsp;[8-10 Appointment of other employees](#appointment-of-other-employees)<br />
+&nbsp;&nbsp;&nbsp;[11-12 Consequential amendment](#consequential-amendment)<br />
 &nbsp;&nbsp;&nbsp;[13 Commencement](#commencement)
 
 HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of the Province of British Columbia, enacts as follows:
@@ -240,5 +240,3 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
 #### Commencement
 
 13. This Act comes into force on the date of Royal Assent.
-
-<div align="center">
