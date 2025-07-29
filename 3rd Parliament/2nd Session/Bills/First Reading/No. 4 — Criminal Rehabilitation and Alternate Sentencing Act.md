@@ -9,8 +9,8 @@
 <hr />
 <hr />
 
-Second Session, Third Parliament
-3 Charles III, 2025
+Second Session, Third Parliament<br />
+3 Charles III, 2025<br />
 Legislative Assembly of British Columbia
 
 <hr />
@@ -75,5 +75,3 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
 #### Commencement
 
 4. This Act comes into force on the date of Royal Assent.
-
-<div align="center">
