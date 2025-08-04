@@ -115,7 +115,7 @@
         <td>Law Society Amendment Act, 2025</td>
         <td>Hon. vd207</td>
         <td><a href="./First%20Reading/No.%208%20—%20Law%20Society%20Amendment%20Act%2C%202025.md">Jul 28</a></td>
-        <td></td>
+        <td>Aug 3</td>
         <td></td>
         <td></td>
         <td></td>
